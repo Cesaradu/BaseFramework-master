@@ -29,38 +29,6 @@
 		A7AA5D1120C7CA8C00FFFA04 /* NSString+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5BCE20C7CA8C00FFFA04 /* NSString+Extension.m */; };
 		A7AA5D1220C7CA8C00FFFA04 /* UIColor+ColorHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5BD120C7CA8C00FFFA04 /* UIColor+ColorHelper.m */; };
 		A7AA5D1320C7CA8C00FFFA04 /* NSString+MD5.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5BD420C7CA8C00FFFA04 /* NSString+MD5.m */; };
-		A7AA5D1420C7CA8C00FFFA04 /* libmp3lame.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A7AA5BD720C7CA8C00FFFA04 /* libmp3lame.a */; };
-		A7AA5D2120C7CA8D00FFFA04 /* BMChineseSort.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5BFB20C7CA8C00FFFA04 /* BMChineseSort.m */; };
-		A7AA5D2220C7CA8D00FFFA04 /* ZFPlayerModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5BFD20C7CA8C00FFFA04 /* ZFPlayerModel.m */; };
-		A7AA5D2320C7CA8D00FFFA04 /* UIWindow+CurrentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C0620C7CA8C00FFFA04 /* UIWindow+CurrentViewController.m */; };
-		A7AA5D2420C7CA8D00FFFA04 /* UIView+CustomControlView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C0720C7CA8C00FFFA04 /* UIView+CustomControlView.m */; };
-		A7AA5D2520C7CA8D00FFFA04 /* UIImageView+ZFCache.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C0820C7CA8C00FFFA04 /* UIImageView+ZFCache.m */; };
-		A7AA5D2620C7CA8D00FFFA04 /* UIViewController+ZFPlayerRotation.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C0920C7CA8C00FFFA04 /* UIViewController+ZFPlayerRotation.m */; };
-		A7AA5D2720C7CA8D00FFFA04 /* ZFBrightnessView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C0E20C7CA8C00FFFA04 /* ZFBrightnessView.m */; };
-		A7AA5D2820C7CA8D00FFFA04 /* ZFPlayer.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A7AA5C0F20C7CA8C00FFFA04 /* ZFPlayer.bundle */; };
-		A7AA5D2920C7CA8D00FFFA04 /* ASValuePopUpView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C1120C7CA8C00FFFA04 /* ASValuePopUpView.m */; };
-		A7AA5D2A20C7CA8D00FFFA04 /* ZFPlayerControlView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C1220C7CA8C00FFFA04 /* ZFPlayerControlView.m */; };
-		A7AA5D2B20C7CA8D00FFFA04 /* ZFPlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C1320C7CA8C00FFFA04 /* ZFPlayerView.m */; };
-		A7AA5D2C20C7CA8D00FFFA04 /* MMMaterialDesignSpinner.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C1420C7CA8C00FFFA04 /* MMMaterialDesignSpinner.m */; };
-		A7AA5D2D20C7CA8D00FFFA04 /* UINavigationController+ZFFullscreenPopGesture.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C1720C7CA8C00FFFA04 /* UINavigationController+ZFFullscreenPopGesture.m */; };
-		A7AA5D2E20C7CA8D00FFFA04 /* ASValueTrackingSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C1920C7CA8C00FFFA04 /* ASValueTrackingSlider.m */; };
-		A7AA5D2F20C7CA8D00FFFA04 /* AlipaySDK.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A7AA5C1B20C7CA8C00FFFA04 /* AlipaySDK.bundle */; };
-		A7AA5D3020C7CA8D00FFFA04 /* AlipaySDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A7AA5C1C20C7CA8C00FFFA04 /* AlipaySDK.framework */; };
-		A7AA5D3120C7CA8D00FFFA04 /* TZImageCropManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C2020C7CA8C00FFFA04 /* TZImageCropManager.m */; };
-		A7AA5D3220C7CA8D00FFFA04 /* TZAssetCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C2220C7CA8C00FFFA04 /* TZAssetCell.m */; };
-		A7AA5D3320C7CA8D00FFFA04 /* TZVideoPlayerController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C2320C7CA8C00FFFA04 /* TZVideoPlayerController.m */; };
-		A7AA5D3420C7CA8D00FFFA04 /* TZAssetModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C2420C7CA8C00FFFA04 /* TZAssetModel.m */; };
-		A7AA5D3520C7CA8D00FFFA04 /* NSBundle+TZImagePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C2520C7CA8C00FFFA04 /* NSBundle+TZImagePicker.m */; };
-		A7AA5D3620C7CA8D00FFFA04 /* UIView+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C2820C7CA8C00FFFA04 /* UIView+Layout.m */; };
-		A7AA5D3720C7CA8D00FFFA04 /* TZPhotoPreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C2920C7CA8C00FFFA04 /* TZPhotoPreviewController.m */; };
-		A7AA5D3820C7CA8D00FFFA04 /* TZImagePickerController.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A7AA5C2A20C7CA8C00FFFA04 /* TZImagePickerController.bundle */; };
-		A7AA5D3920C7CA8D00FFFA04 /* TZProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C2B20C7CA8C00FFFA04 /* TZProgressView.m */; };
-		A7AA5D3A20C7CA8D00FFFA04 /* TZImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C2E20C7CA8C00FFFA04 /* TZImageManager.m */; };
-		A7AA5D3B20C7CA8D00FFFA04 /* TZPhotoPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C3020C7CA8C00FFFA04 /* TZPhotoPickerController.m */; };
-		A7AA5D3C20C7CA8D00FFFA04 /* TZPhotoPreviewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C3120C7CA8C00FFFA04 /* TZPhotoPreviewCell.m */; };
-		A7AA5D3D20C7CA8D00FFFA04 /* TZImagePickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C3720C7CA8C00FFFA04 /* TZImagePickerController.m */; };
-		A7AA5D3E20C7CA8D00FFFA04 /* TZLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C3820C7CA8C00FFFA04 /* TZLocationManager.m */; };
-		A7AA5D3F20C7CA8D00FFFA04 /* TZGifPhotoPreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5C3920C7CA8C00FFFA04 /* TZGifPhotoPreviewController.m */; };
 		A7AA5D8220C7CA8D00FFFA04 /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5CDD20C7CA8C00FFFA04 /* WebViewController.m */; };
 		A7AA5D8320C7CA8D00FFFA04 /* ADClipImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5CE020C7CA8C00FFFA04 /* ADClipImageViewController.m */; };
 		A7AA5D8420C7CA8D00FFFA04 /* NSMutableArray+MutableArrayCheck.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5CE520C7CA8C00FFFA04 /* NSMutableArray+MutableArrayCheck.m */; };
@@ -93,6 +61,106 @@
 		A7AA5DBA20C7CD4300FFFA04 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A7AA5DB920C7CD3E00FFFA04 /* CoreText.framework */; };
 		A7AA5DBC20C7CD5500FFFA04 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A7AA5DBB20C7CD4E00FFFA04 /* QuartzCore.framework */; };
 		A7AA5DBE20C7CD6D00FFFA04 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A7AA5DBD20C7CD6800FFFA04 /* CoreTelephony.framework */; };
+		A7AA5EC220C7CFB900FFFA04 /* libmp3lame.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A7AA5DC120C7CFB900FFFA04 /* libmp3lame.a */; };
+		A7AA5EC320C7CFB900FFFA04 /* YCXMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5DC420C7CFB900FFFA04 /* YCXMenu.m */; };
+		A7AA5EC420C7CFB900FFFA04 /* YCXMenuItem.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5DC520C7CFB900FFFA04 /* YCXMenuItem.m */; };
+		A7AA5ECF20C7CFB900FFFA04 /* BMChineseSort.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5DE420C7CFB900FFFA04 /* BMChineseSort.m */; };
+		A7AA5ED020C7CFB900FFFA04 /* ZFPlayerModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5DE620C7CFB900FFFA04 /* ZFPlayerModel.m */; };
+		A7AA5ED120C7CFB900FFFA04 /* UIWindow+CurrentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5DEF20C7CFB900FFFA04 /* UIWindow+CurrentViewController.m */; };
+		A7AA5ED220C7CFB900FFFA04 /* UIView+CustomControlView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5DF020C7CFB900FFFA04 /* UIView+CustomControlView.m */; };
+		A7AA5ED320C7CFB900FFFA04 /* UIImageView+ZFCache.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5DF120C7CFB900FFFA04 /* UIImageView+ZFCache.m */; };
+		A7AA5ED420C7CFB900FFFA04 /* UIViewController+ZFPlayerRotation.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5DF220C7CFB900FFFA04 /* UIViewController+ZFPlayerRotation.m */; };
+		A7AA5ED520C7CFB900FFFA04 /* ZFBrightnessView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5DF720C7CFB900FFFA04 /* ZFBrightnessView.m */; };
+		A7AA5ED620C7CFB900FFFA04 /* ZFPlayer.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A7AA5DF820C7CFB900FFFA04 /* ZFPlayer.bundle */; };
+		A7AA5ED720C7CFB900FFFA04 /* ASValuePopUpView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5DFA20C7CFB900FFFA04 /* ASValuePopUpView.m */; };
+		A7AA5ED820C7CFB900FFFA04 /* ZFPlayerControlView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5DFB20C7CFB900FFFA04 /* ZFPlayerControlView.m */; };
+		A7AA5ED920C7CFB900FFFA04 /* ZFPlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5DFC20C7CFB900FFFA04 /* ZFPlayerView.m */; };
+		A7AA5EDA20C7CFB900FFFA04 /* MMMaterialDesignSpinner.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5DFD20C7CFB900FFFA04 /* MMMaterialDesignSpinner.m */; };
+		A7AA5EDB20C7CFB900FFFA04 /* UINavigationController+ZFFullscreenPopGesture.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E0020C7CFB900FFFA04 /* UINavigationController+ZFFullscreenPopGesture.m */; };
+		A7AA5EDC20C7CFB900FFFA04 /* ASValueTrackingSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E0220C7CFB900FFFA04 /* ASValueTrackingSlider.m */; };
+		A7AA5EDD20C7CFB900FFFA04 /* AlipaySDK.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A7AA5E0420C7CFB900FFFA04 /* AlipaySDK.bundle */; };
+		A7AA5EDE20C7CFB900FFFA04 /* AlipaySDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A7AA5E0520C7CFB900FFFA04 /* AlipaySDK.framework */; };
+		A7AA5EDF20C7CFB900FFFA04 /* TZImageCropManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E0920C7CFB900FFFA04 /* TZImageCropManager.m */; };
+		A7AA5EE020C7CFB900FFFA04 /* TZAssetCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E0B20C7CFB900FFFA04 /* TZAssetCell.m */; };
+		A7AA5EE120C7CFB900FFFA04 /* TZVideoPlayerController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E0C20C7CFB900FFFA04 /* TZVideoPlayerController.m */; };
+		A7AA5EE220C7CFB900FFFA04 /* TZAssetModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E0D20C7CFB900FFFA04 /* TZAssetModel.m */; };
+		A7AA5EE320C7CFB900FFFA04 /* NSBundle+TZImagePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E0E20C7CFB900FFFA04 /* NSBundle+TZImagePicker.m */; };
+		A7AA5EE420C7CFB900FFFA04 /* UIView+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E1120C7CFB900FFFA04 /* UIView+Layout.m */; };
+		A7AA5EE520C7CFB900FFFA04 /* TZPhotoPreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E1220C7CFB900FFFA04 /* TZPhotoPreviewController.m */; };
+		A7AA5EE620C7CFB900FFFA04 /* TZImagePickerController.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A7AA5E1320C7CFB900FFFA04 /* TZImagePickerController.bundle */; };
+		A7AA5EE720C7CFB900FFFA04 /* TZProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E1420C7CFB900FFFA04 /* TZProgressView.m */; };
+		A7AA5EE820C7CFB900FFFA04 /* TZImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E1720C7CFB900FFFA04 /* TZImageManager.m */; };
+		A7AA5EE920C7CFB900FFFA04 /* TZPhotoPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E1920C7CFB900FFFA04 /* TZPhotoPickerController.m */; };
+		A7AA5EEA20C7CFB900FFFA04 /* TZPhotoPreviewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E1A20C7CFB900FFFA04 /* TZPhotoPreviewCell.m */; };
+		A7AA5EEB20C7CFB900FFFA04 /* TZImagePickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E2020C7CFB900FFFA04 /* TZImagePickerController.m */; };
+		A7AA5EEC20C7CFB900FFFA04 /* TZLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E2120C7CFB900FFFA04 /* TZLocationManager.m */; };
+		A7AA5EED20C7CFB900FFFA04 /* TZGifPhotoPreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E2220C7CFB900FFFA04 /* TZGifPhotoPreviewController.m */; };
+		A7AA5EEE20C7CFB900FFFA04 /* MSSBrowseLoadingImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E2720C7CFB900FFFA04 /* MSSBrowseLoadingImageView.m */; };
+		A7AA5EEF20C7CFB900FFFA04 /* MSSBrowseLocalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E2D20C7CFB900FFFA04 /* MSSBrowseLocalViewController.m */; };
+		A7AA5EF020C7CFB900FFFA04 /* MSSBrowseCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E2E20C7CFB900FFFA04 /* MSSBrowseCollectionViewCell.m */; };
+		A7AA5EF120C7CFB900FFFA04 /* MSSBrowseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E3020C7CFB900FFFA04 /* MSSBrowseModel.m */; };
+		A7AA5EF220C7CFB900FFFA04 /* MSSBrowseActionSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E3220C7CFB900FFFA04 /* MSSBrowseActionSheet.m */; };
+		A7AA5EF320C7CFB900FFFA04 /* MSSBrowseNetworkViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E3320C7CFB900FFFA04 /* MSSBrowseNetworkViewController.m */; };
+		A7AA5EF420C7CFB900FFFA04 /* UIImage+MSSScale.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E3420C7CFB900FFFA04 /* UIImage+MSSScale.m */; };
+		A7AA5EF520C7CFB900FFFA04 /* MSSBrowseBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E3520C7CFB900FFFA04 /* MSSBrowseBaseViewController.m */; };
+		A7AA5EF620C7CFB900FFFA04 /* MSSBrowseZoomScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E3720C7CFB900FFFA04 /* MSSBrowseZoomScrollView.m */; };
+		A7AA5EF720C7CFB900FFFA04 /* MSSBrowseRemindView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E3820C7CFB900FFFA04 /* MSSBrowseRemindView.m */; };
+		A7AA5EF820C7CFB900FFFA04 /* mss_browseLoading@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A7AA5E3920C7CFB900FFFA04 /* mss_browseLoading@3x.png */; };
+		A7AA5EF920C7CFB900FFFA04 /* MSSBrowseActionSheetCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E3C20C7CFB900FFFA04 /* MSSBrowseActionSheetCell.m */; };
+		A7AA5EFA20C7CFB900FFFA04 /* mss_browseLoading@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A7AA5E3E20C7CFB900FFFA04 /* mss_browseLoading@2x.png */; };
+		A7AA5EFB20C7CFB900FFFA04 /* UIView+MSSLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E3F20C7CFB900FFFA04 /* UIView+MSSLayout.m */; };
+		A7AA5EFC20C7CFB900FFFA04 /* ZFGenericChart.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E4320C7CFB900FFFA04 /* ZFGenericChart.m */; };
+		A7AA5EFD20C7CFB900FFFA04 /* ZFBarChart.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E4720C7CFB900FFFA04 /* ZFBarChart.m */; };
+		A7AA5EFE20C7CFB900FFFA04 /* ZFBar.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E4820C7CFB900FFFA04 /* ZFBar.m */; };
+		A7AA5EFF20C7CFB900FFFA04 /* UIView+Zirkfied.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E4A20C7CFB900FFFA04 /* UIView+Zirkfied.m */; };
+		A7AA5F0020C7CFB900FFFA04 /* UIBezierPath+Zirkfied.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E4C20C7CFB900FFFA04 /* UIBezierPath+Zirkfied.m */; };
+		A7AA5F0120C7CFB900FFFA04 /* UIColor+Zirkfied.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E5020C7CFB900FFFA04 /* UIColor+Zirkfied.m */; };
+		A7AA5F0220C7CFB900FFFA04 /* NSString+Zirkfied.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E5220C7CFB900FFFA04 /* NSString+Zirkfied.m */; };
+		A7AA5F0320C7CFB900FFFA04 /* NSNumber+Zirkfied.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E5320C7CFB900FFFA04 /* NSNumber+Zirkfied.m */; };
+		A7AA5F0420C7CFB900FFFA04 /* ZFCirqueChart.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E5620C7CFB900FFFA04 /* ZFCirqueChart.m */; };
+		A7AA5F0520C7CFB900FFFA04 /* ZFCirque.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E5820C7CFB900FFFA04 /* ZFCirque.m */; };
+		A7AA5F0620C7CFB900FFFA04 /* ZFHorizontalAxis.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E5A20C7CFB900FFFA04 /* ZFHorizontalAxis.m */; };
+		A7AA5F0720C7CFB900FFFA04 /* ZFConst.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E5E20C7CFB900FFFA04 /* ZFConst.m */; };
+		A7AA5F0820C7CFB900FFFA04 /* ZFMethod.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E6220C7CFB900FFFA04 /* ZFMethod.m */; };
+		A7AA5F0920C7CFB900FFFA04 /* ZFPieChart.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E6420C7CFB900FFFA04 /* ZFPieChart.m */; };
+		A7AA5F0A20C7CFB900FFFA04 /* ZFPie.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E6820C7CFB900FFFA04 /* ZFPie.m */; };
+		A7AA5F0B20C7CFB900FFFA04 /* ZFTranslucencePath.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E6920C7CFB900FFFA04 /* ZFTranslucencePath.m */; };
+		A7AA5F0C20C7CFB900FFFA04 /* ZFLineChart.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E6C20C7CFB900FFFA04 /* ZFLineChart.m */; };
+		A7AA5F0D20C7CFB900FFFA04 /* ZFCircle.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E6F20C7CFB900FFFA04 /* ZFCircle.m */; };
+		A7AA5F0E20C7CFB900FFFA04 /* ZFLine.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E7020C7CFB900FFFA04 /* ZFLine.m */; };
+		A7AA5F0F20C7CFB900FFFA04 /* ZFXAxisLine.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E7320C7CFB900FFFA04 /* ZFXAxisLine.m */; };
+		A7AA5F1020C7CFB900FFFA04 /* ZFYAxisLine.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E7420C7CFB900FFFA04 /* ZFYAxisLine.m */; };
+		A7AA5F1120C7CFB900FFFA04 /* ZFPopoverLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E7620C7CFB900FFFA04 /* ZFPopoverLabel.m */; };
+		A7AA5F1220C7CFB900FFFA04 /* ZFLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E7820C7CFB900FFFA04 /* ZFLabel.m */; };
+		A7AA5F1320C7CFB900FFFA04 /* ZFRadar.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E7B20C7CFB900FFFA04 /* ZFRadar.m */; };
+		A7AA5F1420C7CFB900FFFA04 /* ZFPolygon.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E7C20C7CFB900FFFA04 /* ZFPolygon.m */; };
+		A7AA5F1520C7CFB900FFFA04 /* ZFRadarChart.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E7D20C7CFB900FFFA04 /* ZFRadarChart.m */; };
+		A7AA5F1620C7CFB900FFFA04 /* ZFGenericAxis.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E8320C7CFB900FFFA04 /* ZFGenericAxis.m */; };
+		A7AA5F1720C7CFB900FFFA04 /* ZFGradientAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E8720C7CFB900FFFA04 /* ZFGradientAttribute.m */; };
+		A7AA5F1820C7CFB900FFFA04 /* ZFCurveAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E8820C7CFB900FFFA04 /* ZFCurveAttribute.m */; };
+		A7AA5F1920C7CFB900FFFA04 /* ZFWaveChart.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E8C20C7CFB900FFFA04 /* ZFWaveChart.m */; };
+		A7AA5F1A20C7CFB900FFFA04 /* ZFWave.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E8D20C7CFB900FFFA04 /* ZFWave.m */; };
+		A7AA5F1B20C7CFB900FFFA04 /* ZFHorizontalBarChart.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E9020C7CFB900FFFA04 /* ZFHorizontalBarChart.m */; };
+		A7AA5F1C20C7CFB900FFFA04 /* ZFHorizontalBar.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E9120C7CFB900FFFA04 /* ZFHorizontalBar.m */; };
+		A7AA5F1D20C7CFB900FFFA04 /* WYLineChartCoordinateView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E9920C7CFB900FFFA04 /* WYLineChartCoordinateView.m */; };
+		A7AA5F1E20C7CFB900FFFA04 /* WYLineChartBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E9A20C7CFB900FFFA04 /* WYLineChartBackgroundView.m */; };
+		A7AA5F1F20C7CFB900FFFA04 /* WYLineChartReferenceLineView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E9D20C7CFB900FFFA04 /* WYLineChartReferenceLineView.m */; };
+		A7AA5F2020C7CFB900FFFA04 /* WYLineChartMainLineView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5E9E20C7CFB900FFFA04 /* WYLineChartMainLineView.m */; };
+		A7AA5F2120C7CFB900FFFA04 /* WYLineChartJunctionShape.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5EA020C7CFB900FFFA04 /* WYLineChartJunctionShape.m */; };
+		A7AA5F2220C7CFB900FFFA04 /* WYChartCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5EA620C7CFB900FFFA04 /* WYChartCategory.m */; };
+		A7AA5F2320C7CFB900FFFA04 /* WYLineChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5EA720C7CFB900FFFA04 /* WYLineChartView.m */; };
+		A7AA5F2420C7CFB900FFFA04 /* WYLineChartPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5EA820C7CFB900FFFA04 /* WYLineChartPoint.m */; };
+		A7AA5F2520C7CFB900FFFA04 /* WYLineChartCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5EAA20C7CFB900FFFA04 /* WYLineChartCalculator.m */; };
+		A7AA5F2620C7CFB900FFFA04 /* WYPieCenterCircle.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5EAE20C7CFB900FFFA04 /* WYPieCenterCircle.m */; };
+		A7AA5F2720C7CFB900FFFA04 /* WYPieChartForegroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5EB020C7CFB900FFFA04 /* WYPieChartForegroundView.m */; };
+		A7AA5F2820C7CFB900FFFA04 /* WYMainPieChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5EB120C7CFB900FFFA04 /* WYMainPieChartView.m */; };
+		A7AA5F2920C7CFB900FFFA04 /* WYSectorLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5EB420C7CFB900FFFA04 /* WYSectorLayer.m */; };
+		A7AA5F2A20C7CFB900FFFA04 /* WYPieSector.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5EB720C7CFB900FFFA04 /* WYPieSector.m */; };
+		A7AA5F2B20C7CFB900FFFA04 /* WYPieChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5EBA20C7CFB900FFFA04 /* WYPieChartView.m */; };
+		A7AA5F2C20C7CFB900FFFA04 /* WYPieChartCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5EBB20C7CFB900FFFA04 /* WYPieChartCalculator.m */; };
+		A7AA5F2D20C7CFB900FFFA04 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = A7AA5EBC20C7CFB900FFFA04 /* .gitkeep */; };
+		A7AA5F2E20C7CFB900FFFA04 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = A7AA5EBE20C7CFB900FFFA04 /* .gitkeep */; };
+		A7AA5F2F20C7CFB900FFFA04 /* JHGridView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA5EC120C7CFB900FFFA04 /* JHGridView.m */; };
 		FD4E35A2915AD23559BD9CE5 /* Pods_BaseFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 088B0E89D6F92A635445F900 /* Pods_BaseFramework.framework */; };
 /* End PBXBuildFile section */
 
@@ -143,68 +211,6 @@
 		A7AA5BD120C7CA8C00FFFA04 /* UIColor+ColorHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+ColorHelper.m"; sourceTree = "<group>"; };
 		A7AA5BD320C7CA8C00FFFA04 /* NSString+MD5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+MD5.h"; sourceTree = "<group>"; };
 		A7AA5BD420C7CA8C00FFFA04 /* NSString+MD5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+MD5.m"; sourceTree = "<group>"; };
-		A7AA5BD720C7CA8C00FFFA04 /* libmp3lame.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libmp3lame.a; sourceTree = "<group>"; };
-		A7AA5BD820C7CA8C00FFFA04 /* lame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = lame.h; sourceTree = "<group>"; };
-		A7AA5BFA20C7CA8C00FFFA04 /* BMChineseSort.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BMChineseSort.h; sourceTree = "<group>"; };
-		A7AA5BFB20C7CA8C00FFFA04 /* BMChineseSort.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BMChineseSort.m; sourceTree = "<group>"; };
-		A7AA5BFD20C7CA8C00FFFA04 /* ZFPlayerModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPlayerModel.m; sourceTree = "<group>"; };
-		A7AA5BFE20C7CA8C00FFFA04 /* ZFPlayerControlViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerControlViewDelegate.h; sourceTree = "<group>"; };
-		A7AA5BFF20C7CA8C00FFFA04 /* ZFPlayerControlView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerControlView.h; sourceTree = "<group>"; };
-		A7AA5C0020C7CA8C00FFFA04 /* ASValuePopUpView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASValuePopUpView.h; sourceTree = "<group>"; };
-		A7AA5C0220C7CA8C00FFFA04 /* UIWindow+CurrentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWindow+CurrentViewController.h"; sourceTree = "<group>"; };
-		A7AA5C0320C7CA8C00FFFA04 /* UIView+CustomControlView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+CustomControlView.h"; sourceTree = "<group>"; };
-		A7AA5C0420C7CA8C00FFFA04 /* UIViewController+ZFPlayerRotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+ZFPlayerRotation.h"; sourceTree = "<group>"; };
-		A7AA5C0520C7CA8C00FFFA04 /* UIImageView+ZFCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+ZFCache.h"; sourceTree = "<group>"; };
-		A7AA5C0620C7CA8C00FFFA04 /* UIWindow+CurrentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWindow+CurrentViewController.m"; sourceTree = "<group>"; };
-		A7AA5C0720C7CA8C00FFFA04 /* UIView+CustomControlView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+CustomControlView.m"; sourceTree = "<group>"; };
-		A7AA5C0820C7CA8C00FFFA04 /* UIImageView+ZFCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+ZFCache.m"; sourceTree = "<group>"; };
-		A7AA5C0920C7CA8C00FFFA04 /* UIViewController+ZFPlayerRotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+ZFPlayerRotation.m"; sourceTree = "<group>"; };
-		A7AA5C0A20C7CA8C00FFFA04 /* MMMaterialDesignSpinner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMMaterialDesignSpinner.h; sourceTree = "<group>"; };
-		A7AA5C0B20C7CA8C00FFFA04 /* ZFPlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerView.h; sourceTree = "<group>"; };
-		A7AA5C0C20C7CA8C00FFFA04 /* ASValueTrackingSlider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASValueTrackingSlider.h; sourceTree = "<group>"; };
-		A7AA5C0D20C7CA8C00FFFA04 /* ZFPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayer.h; sourceTree = "<group>"; };
-		A7AA5C0E20C7CA8C00FFFA04 /* ZFBrightnessView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFBrightnessView.m; sourceTree = "<group>"; };
-		A7AA5C0F20C7CA8C00FFFA04 /* ZFPlayer.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ZFPlayer.bundle; sourceTree = "<group>"; };
-		A7AA5C1020C7CA8C00FFFA04 /* ZFPlayerModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerModel.h; sourceTree = "<group>"; };
-		A7AA5C1120C7CA8C00FFFA04 /* ASValuePopUpView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASValuePopUpView.m; sourceTree = "<group>"; };
-		A7AA5C1220C7CA8C00FFFA04 /* ZFPlayerControlView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPlayerControlView.m; sourceTree = "<group>"; };
-		A7AA5C1320C7CA8C00FFFA04 /* ZFPlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPlayerView.m; sourceTree = "<group>"; };
-		A7AA5C1420C7CA8C00FFFA04 /* MMMaterialDesignSpinner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMMaterialDesignSpinner.m; sourceTree = "<group>"; };
-		A7AA5C1520C7CA8C00FFFA04 /* ZFBrightnessView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFBrightnessView.h; sourceTree = "<group>"; };
-		A7AA5C1720C7CA8C00FFFA04 /* UINavigationController+ZFFullscreenPopGesture.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationController+ZFFullscreenPopGesture.m"; sourceTree = "<group>"; };
-		A7AA5C1820C7CA8C00FFFA04 /* UINavigationController+ZFFullscreenPopGesture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationController+ZFFullscreenPopGesture.h"; sourceTree = "<group>"; };
-		A7AA5C1920C7CA8C00FFFA04 /* ASValueTrackingSlider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASValueTrackingSlider.m; sourceTree = "<group>"; };
-		A7AA5C1B20C7CA8C00FFFA04 /* AlipaySDK.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = AlipaySDK.bundle; sourceTree = "<group>"; };
-		A7AA5C1C20C7CA8C00FFFA04 /* AlipaySDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AlipaySDK.framework; sourceTree = "<group>"; };
-		A7AA5C1E20C7CA8C00FFFA04 /* TZPhotoPreviewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPreviewCell.h; sourceTree = "<group>"; };
-		A7AA5C1F20C7CA8C00FFFA04 /* TZPhotoPickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPickerController.h; sourceTree = "<group>"; };
-		A7AA5C2020C7CA8C00FFFA04 /* TZImageCropManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImageCropManager.m; sourceTree = "<group>"; };
-		A7AA5C2120C7CA8C00FFFA04 /* TZImageManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImageManager.h; sourceTree = "<group>"; };
-		A7AA5C2220C7CA8C00FFFA04 /* TZAssetCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZAssetCell.m; sourceTree = "<group>"; };
-		A7AA5C2320C7CA8C00FFFA04 /* TZVideoPlayerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZVideoPlayerController.m; sourceTree = "<group>"; };
-		A7AA5C2420C7CA8C00FFFA04 /* TZAssetModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZAssetModel.m; sourceTree = "<group>"; };
-		A7AA5C2520C7CA8C00FFFA04 /* NSBundle+TZImagePicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSBundle+TZImagePicker.m"; sourceTree = "<group>"; };
-		A7AA5C2620C7CA8C00FFFA04 /* TZLocationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZLocationManager.h; sourceTree = "<group>"; };
-		A7AA5C2720C7CA8C00FFFA04 /* TZImagePickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImagePickerController.h; sourceTree = "<group>"; };
-		A7AA5C2820C7CA8C00FFFA04 /* UIView+Layout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Layout.m"; sourceTree = "<group>"; };
-		A7AA5C2920C7CA8C00FFFA04 /* TZPhotoPreviewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPreviewController.m; sourceTree = "<group>"; };
-		A7AA5C2A20C7CA8C00FFFA04 /* TZImagePickerController.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = TZImagePickerController.bundle; sourceTree = "<group>"; };
-		A7AA5C2B20C7CA8C00FFFA04 /* TZProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZProgressView.m; sourceTree = "<group>"; };
-		A7AA5C2C20C7CA8C00FFFA04 /* TZGifPhotoPreviewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZGifPhotoPreviewController.h; sourceTree = "<group>"; };
-		A7AA5C2D20C7CA8C00FFFA04 /* TZAssetCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZAssetCell.h; sourceTree = "<group>"; };
-		A7AA5C2E20C7CA8C00FFFA04 /* TZImageManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImageManager.m; sourceTree = "<group>"; };
-		A7AA5C2F20C7CA8C00FFFA04 /* TZImageCropManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImageCropManager.h; sourceTree = "<group>"; };
-		A7AA5C3020C7CA8C00FFFA04 /* TZPhotoPickerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPickerController.m; sourceTree = "<group>"; };
-		A7AA5C3120C7CA8C00FFFA04 /* TZPhotoPreviewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPreviewCell.m; sourceTree = "<group>"; };
-		A7AA5C3220C7CA8C00FFFA04 /* NSBundle+TZImagePicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSBundle+TZImagePicker.h"; sourceTree = "<group>"; };
-		A7AA5C3320C7CA8C00FFFA04 /* TZAssetModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZAssetModel.h; sourceTree = "<group>"; };
-		A7AA5C3420C7CA8C00FFFA04 /* TZVideoPlayerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZVideoPlayerController.h; sourceTree = "<group>"; };
-		A7AA5C3520C7CA8C00FFFA04 /* TZPhotoPreviewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPreviewController.h; sourceTree = "<group>"; };
-		A7AA5C3620C7CA8C00FFFA04 /* UIView+Layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Layout.h"; sourceTree = "<group>"; };
-		A7AA5C3720C7CA8C00FFFA04 /* TZImagePickerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImagePickerController.m; sourceTree = "<group>"; };
-		A7AA5C3820C7CA8C00FFFA04 /* TZLocationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZLocationManager.m; sourceTree = "<group>"; };
-		A7AA5C3920C7CA8C00FFFA04 /* TZGifPhotoPreviewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZGifPhotoPreviewController.m; sourceTree = "<group>"; };
-		A7AA5C3A20C7CA8C00FFFA04 /* TZProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZProgressView.h; sourceTree = "<group>"; };
 		A7AA5CDD20C7CA8C00FFFA04 /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
 		A7AA5CDE20C7CA8C00FFFA04 /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
 		A7AA5CE020C7CA8C00FFFA04 /* ADClipImageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADClipImageViewController.m; sourceTree = "<group>"; };
@@ -262,6 +268,203 @@
 		A7AA5DB920C7CD3E00FFFA04 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
 		A7AA5DBB20C7CD4E00FFFA04 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		A7AA5DBD20C7CD6800FFFA04 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		A7AA5DC120C7CFB900FFFA04 /* libmp3lame.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libmp3lame.a; sourceTree = "<group>"; };
+		A7AA5DC220C7CFB900FFFA04 /* lame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = lame.h; sourceTree = "<group>"; };
+		A7AA5DC420C7CFB900FFFA04 /* YCXMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YCXMenu.m; sourceTree = "<group>"; };
+		A7AA5DC520C7CFB900FFFA04 /* YCXMenuItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YCXMenuItem.m; sourceTree = "<group>"; };
+		A7AA5DC620C7CFB900FFFA04 /* YCXMenuItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YCXMenuItem.h; sourceTree = "<group>"; };
+		A7AA5DC720C7CFB900FFFA04 /* YCXMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YCXMenu.h; sourceTree = "<group>"; };
+		A7AA5DE320C7CFB900FFFA04 /* BMChineseSort.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BMChineseSort.h; sourceTree = "<group>"; };
+		A7AA5DE420C7CFB900FFFA04 /* BMChineseSort.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BMChineseSort.m; sourceTree = "<group>"; };
+		A7AA5DE620C7CFB900FFFA04 /* ZFPlayerModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPlayerModel.m; sourceTree = "<group>"; };
+		A7AA5DE720C7CFB900FFFA04 /* ZFPlayerControlViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerControlViewDelegate.h; sourceTree = "<group>"; };
+		A7AA5DE820C7CFB900FFFA04 /* ZFPlayerControlView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerControlView.h; sourceTree = "<group>"; };
+		A7AA5DE920C7CFB900FFFA04 /* ASValuePopUpView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASValuePopUpView.h; sourceTree = "<group>"; };
+		A7AA5DEB20C7CFB900FFFA04 /* UIWindow+CurrentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWindow+CurrentViewController.h"; sourceTree = "<group>"; };
+		A7AA5DEC20C7CFB900FFFA04 /* UIView+CustomControlView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+CustomControlView.h"; sourceTree = "<group>"; };
+		A7AA5DED20C7CFB900FFFA04 /* UIViewController+ZFPlayerRotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+ZFPlayerRotation.h"; sourceTree = "<group>"; };
+		A7AA5DEE20C7CFB900FFFA04 /* UIImageView+ZFCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+ZFCache.h"; sourceTree = "<group>"; };
+		A7AA5DEF20C7CFB900FFFA04 /* UIWindow+CurrentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWindow+CurrentViewController.m"; sourceTree = "<group>"; };
+		A7AA5DF020C7CFB900FFFA04 /* UIView+CustomControlView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+CustomControlView.m"; sourceTree = "<group>"; };
+		A7AA5DF120C7CFB900FFFA04 /* UIImageView+ZFCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+ZFCache.m"; sourceTree = "<group>"; };
+		A7AA5DF220C7CFB900FFFA04 /* UIViewController+ZFPlayerRotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+ZFPlayerRotation.m"; sourceTree = "<group>"; };
+		A7AA5DF320C7CFB900FFFA04 /* MMMaterialDesignSpinner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMMaterialDesignSpinner.h; sourceTree = "<group>"; };
+		A7AA5DF420C7CFB900FFFA04 /* ZFPlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerView.h; sourceTree = "<group>"; };
+		A7AA5DF520C7CFB900FFFA04 /* ASValueTrackingSlider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASValueTrackingSlider.h; sourceTree = "<group>"; };
+		A7AA5DF620C7CFB900FFFA04 /* ZFPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayer.h; sourceTree = "<group>"; };
+		A7AA5DF720C7CFB900FFFA04 /* ZFBrightnessView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFBrightnessView.m; sourceTree = "<group>"; };
+		A7AA5DF820C7CFB900FFFA04 /* ZFPlayer.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ZFPlayer.bundle; sourceTree = "<group>"; };
+		A7AA5DF920C7CFB900FFFA04 /* ZFPlayerModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPlayerModel.h; sourceTree = "<group>"; };
+		A7AA5DFA20C7CFB900FFFA04 /* ASValuePopUpView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASValuePopUpView.m; sourceTree = "<group>"; };
+		A7AA5DFB20C7CFB900FFFA04 /* ZFPlayerControlView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPlayerControlView.m; sourceTree = "<group>"; };
+		A7AA5DFC20C7CFB900FFFA04 /* ZFPlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPlayerView.m; sourceTree = "<group>"; };
+		A7AA5DFD20C7CFB900FFFA04 /* MMMaterialDesignSpinner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMMaterialDesignSpinner.m; sourceTree = "<group>"; };
+		A7AA5DFE20C7CFB900FFFA04 /* ZFBrightnessView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFBrightnessView.h; sourceTree = "<group>"; };
+		A7AA5E0020C7CFB900FFFA04 /* UINavigationController+ZFFullscreenPopGesture.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationController+ZFFullscreenPopGesture.m"; sourceTree = "<group>"; };
+		A7AA5E0120C7CFB900FFFA04 /* UINavigationController+ZFFullscreenPopGesture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationController+ZFFullscreenPopGesture.h"; sourceTree = "<group>"; };
+		A7AA5E0220C7CFB900FFFA04 /* ASValueTrackingSlider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASValueTrackingSlider.m; sourceTree = "<group>"; };
+		A7AA5E0420C7CFB900FFFA04 /* AlipaySDK.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = AlipaySDK.bundle; sourceTree = "<group>"; };
+		A7AA5E0520C7CFB900FFFA04 /* AlipaySDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AlipaySDK.framework; sourceTree = "<group>"; };
+		A7AA5E0720C7CFB900FFFA04 /* TZPhotoPreviewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPreviewCell.h; sourceTree = "<group>"; };
+		A7AA5E0820C7CFB900FFFA04 /* TZPhotoPickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPickerController.h; sourceTree = "<group>"; };
+		A7AA5E0920C7CFB900FFFA04 /* TZImageCropManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImageCropManager.m; sourceTree = "<group>"; };
+		A7AA5E0A20C7CFB900FFFA04 /* TZImageManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImageManager.h; sourceTree = "<group>"; };
+		A7AA5E0B20C7CFB900FFFA04 /* TZAssetCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZAssetCell.m; sourceTree = "<group>"; };
+		A7AA5E0C20C7CFB900FFFA04 /* TZVideoPlayerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZVideoPlayerController.m; sourceTree = "<group>"; };
+		A7AA5E0D20C7CFB900FFFA04 /* TZAssetModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZAssetModel.m; sourceTree = "<group>"; };
+		A7AA5E0E20C7CFB900FFFA04 /* NSBundle+TZImagePicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSBundle+TZImagePicker.m"; sourceTree = "<group>"; };
+		A7AA5E0F20C7CFB900FFFA04 /* TZLocationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZLocationManager.h; sourceTree = "<group>"; };
+		A7AA5E1020C7CFB900FFFA04 /* TZImagePickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImagePickerController.h; sourceTree = "<group>"; };
+		A7AA5E1120C7CFB900FFFA04 /* UIView+Layout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Layout.m"; sourceTree = "<group>"; };
+		A7AA5E1220C7CFB900FFFA04 /* TZPhotoPreviewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPreviewController.m; sourceTree = "<group>"; };
+		A7AA5E1320C7CFB900FFFA04 /* TZImagePickerController.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = TZImagePickerController.bundle; sourceTree = "<group>"; };
+		A7AA5E1420C7CFB900FFFA04 /* TZProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZProgressView.m; sourceTree = "<group>"; };
+		A7AA5E1520C7CFB900FFFA04 /* TZGifPhotoPreviewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZGifPhotoPreviewController.h; sourceTree = "<group>"; };
+		A7AA5E1620C7CFB900FFFA04 /* TZAssetCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZAssetCell.h; sourceTree = "<group>"; };
+		A7AA5E1720C7CFB900FFFA04 /* TZImageManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImageManager.m; sourceTree = "<group>"; };
+		A7AA5E1820C7CFB900FFFA04 /* TZImageCropManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImageCropManager.h; sourceTree = "<group>"; };
+		A7AA5E1920C7CFB900FFFA04 /* TZPhotoPickerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPickerController.m; sourceTree = "<group>"; };
+		A7AA5E1A20C7CFB900FFFA04 /* TZPhotoPreviewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPreviewCell.m; sourceTree = "<group>"; };
+		A7AA5E1B20C7CFB900FFFA04 /* NSBundle+TZImagePicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSBundle+TZImagePicker.h"; sourceTree = "<group>"; };
+		A7AA5E1C20C7CFB900FFFA04 /* TZAssetModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZAssetModel.h; sourceTree = "<group>"; };
+		A7AA5E1D20C7CFB900FFFA04 /* TZVideoPlayerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZVideoPlayerController.h; sourceTree = "<group>"; };
+		A7AA5E1E20C7CFB900FFFA04 /* TZPhotoPreviewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPreviewController.h; sourceTree = "<group>"; };
+		A7AA5E1F20C7CFB900FFFA04 /* UIView+Layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Layout.h"; sourceTree = "<group>"; };
+		A7AA5E2020C7CFB900FFFA04 /* TZImagePickerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImagePickerController.m; sourceTree = "<group>"; };
+		A7AA5E2120C7CFB900FFFA04 /* TZLocationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZLocationManager.m; sourceTree = "<group>"; };
+		A7AA5E2220C7CFB900FFFA04 /* TZGifPhotoPreviewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZGifPhotoPreviewController.m; sourceTree = "<group>"; };
+		A7AA5E2320C7CFB900FFFA04 /* TZProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZProgressView.h; sourceTree = "<group>"; };
+		A7AA5E2520C7CFB900FFFA04 /* MSSBrowseRemindView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseRemindView.h; sourceTree = "<group>"; };
+		A7AA5E2620C7CFB900FFFA04 /* MSSBrowseZoomScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseZoomScrollView.h; sourceTree = "<group>"; };
+		A7AA5E2720C7CFB900FFFA04 /* MSSBrowseLoadingImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseLoadingImageView.m; sourceTree = "<group>"; };
+		A7AA5E2820C7CFB900FFFA04 /* MSSBrowseBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseBaseViewController.h; sourceTree = "<group>"; };
+		A7AA5E2920C7CFB900FFFA04 /* UIImage+MSSScale.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+MSSScale.h"; sourceTree = "<group>"; };
+		A7AA5E2A20C7CFB900FFFA04 /* MSSBrowseNetworkViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseNetworkViewController.h; sourceTree = "<group>"; };
+		A7AA5E2B20C7CFB900FFFA04 /* MSSBrowseActionSheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseActionSheet.h; sourceTree = "<group>"; };
+		A7AA5E2C20C7CFB900FFFA04 /* MSSBrowseActionSheetCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseActionSheetCell.h; sourceTree = "<group>"; };
+		A7AA5E2D20C7CFB900FFFA04 /* MSSBrowseLocalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseLocalViewController.m; sourceTree = "<group>"; };
+		A7AA5E2E20C7CFB900FFFA04 /* MSSBrowseCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseCollectionViewCell.m; sourceTree = "<group>"; };
+		A7AA5E2F20C7CFB900FFFA04 /* UIView+MSSLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+MSSLayout.h"; sourceTree = "<group>"; };
+		A7AA5E3020C7CFB900FFFA04 /* MSSBrowseModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseModel.m; sourceTree = "<group>"; };
+		A7AA5E3120C7CFB900FFFA04 /* MSSBrowseDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseDefine.h; sourceTree = "<group>"; };
+		A7AA5E3220C7CFB900FFFA04 /* MSSBrowseActionSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseActionSheet.m; sourceTree = "<group>"; };
+		A7AA5E3320C7CFB900FFFA04 /* MSSBrowseNetworkViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseNetworkViewController.m; sourceTree = "<group>"; };
+		A7AA5E3420C7CFB900FFFA04 /* UIImage+MSSScale.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+MSSScale.m"; sourceTree = "<group>"; };
+		A7AA5E3520C7CFB900FFFA04 /* MSSBrowseBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseBaseViewController.m; sourceTree = "<group>"; };
+		A7AA5E3620C7CFB900FFFA04 /* MSSBrowseLoadingImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseLoadingImageView.h; sourceTree = "<group>"; };
+		A7AA5E3720C7CFB900FFFA04 /* MSSBrowseZoomScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseZoomScrollView.m; sourceTree = "<group>"; };
+		A7AA5E3820C7CFB900FFFA04 /* MSSBrowseRemindView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseRemindView.m; sourceTree = "<group>"; };
+		A7AA5E3920C7CFB900FFFA04 /* mss_browseLoading@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mss_browseLoading@3x.png"; sourceTree = "<group>"; };
+		A7AA5E3A20C7CFB900FFFA04 /* MSSBrowseCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseCollectionViewCell.h; sourceTree = "<group>"; };
+		A7AA5E3B20C7CFB900FFFA04 /* MSSBrowseLocalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseLocalViewController.h; sourceTree = "<group>"; };
+		A7AA5E3C20C7CFB900FFFA04 /* MSSBrowseActionSheetCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSSBrowseActionSheetCell.m; sourceTree = "<group>"; };
+		A7AA5E3D20C7CFB900FFFA04 /* MSSBrowseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSSBrowseModel.h; sourceTree = "<group>"; };
+		A7AA5E3E20C7CFB900FFFA04 /* mss_browseLoading@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mss_browseLoading@2x.png"; sourceTree = "<group>"; };
+		A7AA5E3F20C7CFB900FFFA04 /* UIView+MSSLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+MSSLayout.m"; sourceTree = "<group>"; };
+		A7AA5E4220C7CFB900FFFA04 /* ZFGenericChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFGenericChart.h; sourceTree = "<group>"; };
+		A7AA5E4320C7CFB900FFFA04 /* ZFGenericChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFGenericChart.m; sourceTree = "<group>"; };
+		A7AA5E4520C7CFB900FFFA04 /* ZFBarChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFBarChart.h; sourceTree = "<group>"; };
+		A7AA5E4620C7CFB900FFFA04 /* ZFBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFBar.h; sourceTree = "<group>"; };
+		A7AA5E4720C7CFB900FFFA04 /* ZFBarChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFBarChart.m; sourceTree = "<group>"; };
+		A7AA5E4820C7CFB900FFFA04 /* ZFBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFBar.m; sourceTree = "<group>"; };
+		A7AA5E4A20C7CFB900FFFA04 /* UIView+Zirkfied.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Zirkfied.m"; sourceTree = "<group>"; };
+		A7AA5E4B20C7CFB900FFFA04 /* UIColor+Zirkfied.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Zirkfied.h"; sourceTree = "<group>"; };
+		A7AA5E4C20C7CFB900FFFA04 /* UIBezierPath+Zirkfied.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBezierPath+Zirkfied.m"; sourceTree = "<group>"; };
+		A7AA5E4D20C7CFB900FFFA04 /* NSString+Zirkfied.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Zirkfied.h"; sourceTree = "<group>"; };
+		A7AA5E4E20C7CFB900FFFA04 /* NSNumber+Zirkfied.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSNumber+Zirkfied.h"; sourceTree = "<group>"; };
+		A7AA5E4F20C7CFB900FFFA04 /* UIView+Zirkfied.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Zirkfied.h"; sourceTree = "<group>"; };
+		A7AA5E5020C7CFB900FFFA04 /* UIColor+Zirkfied.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Zirkfied.m"; sourceTree = "<group>"; };
+		A7AA5E5120C7CFB900FFFA04 /* UIBezierPath+Zirkfied.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBezierPath+Zirkfied.h"; sourceTree = "<group>"; };
+		A7AA5E5220C7CFB900FFFA04 /* NSString+Zirkfied.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Zirkfied.m"; sourceTree = "<group>"; };
+		A7AA5E5320C7CFB900FFFA04 /* NSNumber+Zirkfied.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSNumber+Zirkfied.m"; sourceTree = "<group>"; };
+		A7AA5E5520C7CFB900FFFA04 /* ZFCirque.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFCirque.h; sourceTree = "<group>"; };
+		A7AA5E5620C7CFB900FFFA04 /* ZFCirqueChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFCirqueChart.m; sourceTree = "<group>"; };
+		A7AA5E5720C7CFB900FFFA04 /* ZFCirqueChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFCirqueChart.h; sourceTree = "<group>"; };
+		A7AA5E5820C7CFB900FFFA04 /* ZFCirque.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFCirque.m; sourceTree = "<group>"; };
+		A7AA5E5A20C7CFB900FFFA04 /* ZFHorizontalAxis.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFHorizontalAxis.m; sourceTree = "<group>"; };
+		A7AA5E5B20C7CFB900FFFA04 /* ZFHorizontalAxis.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFHorizontalAxis.h; sourceTree = "<group>"; };
+		A7AA5E5D20C7CFB900FFFA04 /* ZFColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFColor.h; sourceTree = "<group>"; };
+		A7AA5E5E20C7CFB900FFFA04 /* ZFConst.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFConst.m; sourceTree = "<group>"; };
+		A7AA5E5F20C7CFB900FFFA04 /* ZFChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFChart.h; sourceTree = "<group>"; };
+		A7AA5E6020C7CFB900FFFA04 /* ZFMethod.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFMethod.h; sourceTree = "<group>"; };
+		A7AA5E6120C7CFB900FFFA04 /* ZFConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFConst.h; sourceTree = "<group>"; };
+		A7AA5E6220C7CFB900FFFA04 /* ZFMethod.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFMethod.m; sourceTree = "<group>"; };
+		A7AA5E6420C7CFB900FFFA04 /* ZFPieChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPieChart.m; sourceTree = "<group>"; };
+		A7AA5E6520C7CFB900FFFA04 /* ZFPie.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPie.h; sourceTree = "<group>"; };
+		A7AA5E6620C7CFB900FFFA04 /* ZFTranslucencePath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFTranslucencePath.h; sourceTree = "<group>"; };
+		A7AA5E6720C7CFB900FFFA04 /* ZFPieChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPieChart.h; sourceTree = "<group>"; };
+		A7AA5E6820C7CFB900FFFA04 /* ZFPie.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPie.m; sourceTree = "<group>"; };
+		A7AA5E6920C7CFB900FFFA04 /* ZFTranslucencePath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFTranslucencePath.m; sourceTree = "<group>"; };
+		A7AA5E6B20C7CFB900FFFA04 /* ZFCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFCircle.h; sourceTree = "<group>"; };
+		A7AA5E6C20C7CFB900FFFA04 /* ZFLineChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFLineChart.m; sourceTree = "<group>"; };
+		A7AA5E6D20C7CFB900FFFA04 /* ZFLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFLine.h; sourceTree = "<group>"; };
+		A7AA5E6E20C7CFB900FFFA04 /* ZFLineChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFLineChart.h; sourceTree = "<group>"; };
+		A7AA5E6F20C7CFB900FFFA04 /* ZFCircle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFCircle.m; sourceTree = "<group>"; };
+		A7AA5E7020C7CFB900FFFA04 /* ZFLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFLine.m; sourceTree = "<group>"; };
+		A7AA5E7220C7CFB900FFFA04 /* ZFPopoverLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPopoverLabel.h; sourceTree = "<group>"; };
+		A7AA5E7320C7CFB900FFFA04 /* ZFXAxisLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFXAxisLine.m; sourceTree = "<group>"; };
+		A7AA5E7420C7CFB900FFFA04 /* ZFYAxisLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFYAxisLine.m; sourceTree = "<group>"; };
+		A7AA5E7520C7CFB900FFFA04 /* ZFLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFLabel.h; sourceTree = "<group>"; };
+		A7AA5E7620C7CFB900FFFA04 /* ZFPopoverLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPopoverLabel.m; sourceTree = "<group>"; };
+		A7AA5E7720C7CFB900FFFA04 /* ZFXAxisLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFXAxisLine.h; sourceTree = "<group>"; };
+		A7AA5E7820C7CFB900FFFA04 /* ZFLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFLabel.m; sourceTree = "<group>"; };
+		A7AA5E7920C7CFB900FFFA04 /* ZFYAxisLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFYAxisLine.h; sourceTree = "<group>"; };
+		A7AA5E7B20C7CFB900FFFA04 /* ZFRadar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFRadar.m; sourceTree = "<group>"; };
+		A7AA5E7C20C7CFB900FFFA04 /* ZFPolygon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFPolygon.m; sourceTree = "<group>"; };
+		A7AA5E7D20C7CFB900FFFA04 /* ZFRadarChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFRadarChart.m; sourceTree = "<group>"; };
+		A7AA5E7E20C7CFB900FFFA04 /* ZFRadar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFRadar.h; sourceTree = "<group>"; };
+		A7AA5E7F20C7CFB900FFFA04 /* ZFPolygon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFPolygon.h; sourceTree = "<group>"; };
+		A7AA5E8020C7CFB900FFFA04 /* ZFRadarChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFRadarChart.h; sourceTree = "<group>"; };
+		A7AA5E8220C7CFB900FFFA04 /* ZFGenericAxis.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFGenericAxis.h; sourceTree = "<group>"; };
+		A7AA5E8320C7CFB900FFFA04 /* ZFGenericAxis.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFGenericAxis.m; sourceTree = "<group>"; };
+		A7AA5E8520C7CFB900FFFA04 /* ZFGradientAttribute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFGradientAttribute.h; sourceTree = "<group>"; };
+		A7AA5E8620C7CFB900FFFA04 /* ZFCurveAttribute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFCurveAttribute.h; sourceTree = "<group>"; };
+		A7AA5E8720C7CFB900FFFA04 /* ZFGradientAttribute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFGradientAttribute.m; sourceTree = "<group>"; };
+		A7AA5E8820C7CFB900FFFA04 /* ZFCurveAttribute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFCurveAttribute.m; sourceTree = "<group>"; };
+		A7AA5E8A20C7CFB900FFFA04 /* ZFWaveChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFWaveChart.h; sourceTree = "<group>"; };
+		A7AA5E8B20C7CFB900FFFA04 /* ZFWave.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFWave.h; sourceTree = "<group>"; };
+		A7AA5E8C20C7CFB900FFFA04 /* ZFWaveChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFWaveChart.m; sourceTree = "<group>"; };
+		A7AA5E8D20C7CFB900FFFA04 /* ZFWave.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFWave.m; sourceTree = "<group>"; };
+		A7AA5E8F20C7CFB900FFFA04 /* ZFHorizontalBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFHorizontalBar.h; sourceTree = "<group>"; };
+		A7AA5E9020C7CFB900FFFA04 /* ZFHorizontalBarChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFHorizontalBarChart.m; sourceTree = "<group>"; };
+		A7AA5E9120C7CFB900FFFA04 /* ZFHorizontalBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFHorizontalBar.m; sourceTree = "<group>"; };
+		A7AA5E9220C7CFB900FFFA04 /* ZFHorizontalBarChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFHorizontalBarChart.h; sourceTree = "<group>"; };
+		A7AA5E9720C7CFB900FFFA04 /* WYLineChartCoordinateView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYLineChartCoordinateView.h; sourceTree = "<group>"; };
+		A7AA5E9820C7CFB900FFFA04 /* WYLineChartBackgroundView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYLineChartBackgroundView.h; sourceTree = "<group>"; };
+		A7AA5E9920C7CFB900FFFA04 /* WYLineChartCoordinateView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYLineChartCoordinateView.m; sourceTree = "<group>"; };
+		A7AA5E9A20C7CFB900FFFA04 /* WYLineChartBackgroundView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYLineChartBackgroundView.m; sourceTree = "<group>"; };
+		A7AA5E9C20C7CFB900FFFA04 /* WYLineChartJunctionShape.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYLineChartJunctionShape.h; sourceTree = "<group>"; };
+		A7AA5E9D20C7CFB900FFFA04 /* WYLineChartReferenceLineView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYLineChartReferenceLineView.m; sourceTree = "<group>"; };
+		A7AA5E9E20C7CFB900FFFA04 /* WYLineChartMainLineView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYLineChartMainLineView.m; sourceTree = "<group>"; };
+		A7AA5E9F20C7CFB900FFFA04 /* WYLineChartReferenceLineView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYLineChartReferenceLineView.h; sourceTree = "<group>"; };
+		A7AA5EA020C7CFB900FFFA04 /* WYLineChartJunctionShape.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYLineChartJunctionShape.m; sourceTree = "<group>"; };
+		A7AA5EA120C7CFB900FFFA04 /* WYLineChartMainLineView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYLineChartMainLineView.h; sourceTree = "<group>"; };
+		A7AA5EA320C7CFB900FFFA04 /* WYLineChartPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYLineChartPoint.h; sourceTree = "<group>"; };
+		A7AA5EA420C7CFB900FFFA04 /* WYLineChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYLineChartView.h; sourceTree = "<group>"; };
+		A7AA5EA520C7CFB900FFFA04 /* WYLineChartCalculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYLineChartCalculator.h; sourceTree = "<group>"; };
+		A7AA5EA620C7CFB900FFFA04 /* WYChartCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYChartCategory.m; sourceTree = "<group>"; };
+		A7AA5EA720C7CFB900FFFA04 /* WYLineChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYLineChartView.m; sourceTree = "<group>"; };
+		A7AA5EA820C7CFB900FFFA04 /* WYLineChartPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYLineChartPoint.m; sourceTree = "<group>"; };
+		A7AA5EA920C7CFB900FFFA04 /* WYChartCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYChartCategory.h; sourceTree = "<group>"; };
+		A7AA5EAA20C7CFB900FFFA04 /* WYLineChartCalculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYLineChartCalculator.m; sourceTree = "<group>"; };
+		A7AA5EAD20C7CFB900FFFA04 /* WYMainPieChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYMainPieChartView.h; sourceTree = "<group>"; };
+		A7AA5EAE20C7CFB900FFFA04 /* WYPieCenterCircle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYPieCenterCircle.m; sourceTree = "<group>"; };
+		A7AA5EAF20C7CFB900FFFA04 /* WYSectorLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYSectorLayer.h; sourceTree = "<group>"; };
+		A7AA5EB020C7CFB900FFFA04 /* WYPieChartForegroundView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYPieChartForegroundView.m; sourceTree = "<group>"; };
+		A7AA5EB120C7CFB900FFFA04 /* WYMainPieChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYMainPieChartView.m; sourceTree = "<group>"; };
+		A7AA5EB220C7CFB900FFFA04 /* WYPieCenterCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYPieCenterCircle.h; sourceTree = "<group>"; };
+		A7AA5EB320C7CFB900FFFA04 /* WYPieChartForegroundView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYPieChartForegroundView.h; sourceTree = "<group>"; };
+		A7AA5EB420C7CFB900FFFA04 /* WYSectorLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYSectorLayer.m; sourceTree = "<group>"; };
+		A7AA5EB620C7CFB900FFFA04 /* WYPieChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYPieChartView.h; sourceTree = "<group>"; };
+		A7AA5EB720C7CFB900FFFA04 /* WYPieSector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYPieSector.m; sourceTree = "<group>"; };
+		A7AA5EB820C7CFB900FFFA04 /* WYPieChartCalculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYPieChartCalculator.h; sourceTree = "<group>"; };
+		A7AA5EB920C7CFB900FFFA04 /* WYPieSector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYPieSector.h; sourceTree = "<group>"; };
+		A7AA5EBA20C7CFB900FFFA04 /* WYPieChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYPieChartView.m; sourceTree = "<group>"; };
+		A7AA5EBB20C7CFB900FFFA04 /* WYPieChartCalculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYPieChartCalculator.m; sourceTree = "<group>"; };
+		A7AA5EBC20C7CFB900FFFA04 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		A7AA5EBE20C7CFB900FFFA04 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		A7AA5EC020C7CFB900FFFA04 /* JHGridView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JHGridView.h; sourceTree = "<group>"; };
+		A7AA5EC120C7CFB900FFFA04 /* JHGridView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JHGridView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -274,14 +477,14 @@
 				A7AA5DBA20C7CD4300FFFA04 /* CoreText.framework in Frameworks */,
 				A7AA5DB820C7CD3500FFFA04 /* CoreGraphics.framework in Frameworks */,
 				A7AA5DB620C7CD0D00FFFA04 /* CFNetwork.framework in Frameworks */,
+				A7AA5EC220C7CFB900FFFA04 /* libmp3lame.a in Frameworks */,
 				A7AA5DB420C7CCF800FFFA04 /* SystemConfiguration.framework in Frameworks */,
 				A7AA5DB220C7CCE300FFFA04 /* CoreMotion.framework in Frameworks */,
 				A7AA5DAF20C7CCC900FFFA04 /* MediaPlayer.framework in Frameworks */,
 				A7AA5DAD20C7CCB900FFFA04 /* OpenGLES.framework in Frameworks */,
+				A7AA5EDE20C7CFB900FFFA04 /* AlipaySDK.framework in Frameworks */,
 				A7AA5DAB20C7CCAD00FFFA04 /* CoreAudio.framework in Frameworks */,
-				A7AA5D1420C7CA8C00FFFA04 /* libmp3lame.a in Frameworks */,
 				3854E5881E7FAEA500A5C2E7 /* Security.framework in Frameworks */,
-				A7AA5D3020C7CA8D00FFFA04 /* AlipaySDK.framework in Frameworks */,
 				FD4E35A2915AD23559BD9CE5 /* Pods_BaseFramework.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -316,8 +519,8 @@
 				A7AA5D9120C7CBAF00FFFA04 /* MainTabBarController */,
 				382FCF8E1E67F57E0092DE17 /* Home */,
 				382FCF8A1E67F57E0092DE17 /* Mine */,
+				A7AA5DBF20C7CFB900FFFA04 /* ThirdPart */,
 				A7AA5BB020C7CA8C00FFFA04 /* Extension */,
-				A7AA5BD520C7CA8C00FFFA04 /* ThirdPart */,
 				A7AA5CDB20C7CA8C00FFFA04 /* Utils */,
 				382FCF951E67F82F0092DE17 /* PCH、Define、URL */,
 				382FCF711E67F4B60092DE17 /* Supporting Files */,
@@ -543,131 +746,6 @@
 			path = MD5Encrypt;
 			sourceTree = "<group>";
 		};
-		A7AA5BD520C7CA8C00FFFA04 /* ThirdPart */ = {
-			isa = PBXGroup;
-			children = (
-				A7AA5BD620C7CA8C00FFFA04 /* lame */,
-				A7AA5BF920C7CA8C00FFFA04 /* ChineseSorting */,
-				A7AA5BFC20C7CA8C00FFFA04 /* ZFPlayer */,
-				A7AA5C1A20C7CA8C00FFFA04 /* Alipay */,
-				A7AA5C1D20C7CA8C00FFFA04 /* TZImagePickerController */,
-			);
-			path = ThirdPart;
-			sourceTree = "<group>";
-		};
-		A7AA5BD620C7CA8C00FFFA04 /* lame */ = {
-			isa = PBXGroup;
-			children = (
-				A7AA5BD720C7CA8C00FFFA04 /* libmp3lame.a */,
-				A7AA5BD820C7CA8C00FFFA04 /* lame.h */,
-			);
-			path = lame;
-			sourceTree = "<group>";
-		};
-		A7AA5BF920C7CA8C00FFFA04 /* ChineseSorting */ = {
-			isa = PBXGroup;
-			children = (
-				A7AA5BFA20C7CA8C00FFFA04 /* BMChineseSort.h */,
-				A7AA5BFB20C7CA8C00FFFA04 /* BMChineseSort.m */,
-			);
-			path = ChineseSorting;
-			sourceTree = "<group>";
-		};
-		A7AA5BFC20C7CA8C00FFFA04 /* ZFPlayer */ = {
-			isa = PBXGroup;
-			children = (
-				A7AA5BFD20C7CA8C00FFFA04 /* ZFPlayerModel.m */,
-				A7AA5BFE20C7CA8C00FFFA04 /* ZFPlayerControlViewDelegate.h */,
-				A7AA5BFF20C7CA8C00FFFA04 /* ZFPlayerControlView.h */,
-				A7AA5C0020C7CA8C00FFFA04 /* ASValuePopUpView.h */,
-				A7AA5C0120C7CA8C00FFFA04 /* Category */,
-				A7AA5C0A20C7CA8C00FFFA04 /* MMMaterialDesignSpinner.h */,
-				A7AA5C0B20C7CA8C00FFFA04 /* ZFPlayerView.h */,
-				A7AA5C0C20C7CA8C00FFFA04 /* ASValueTrackingSlider.h */,
-				A7AA5C0D20C7CA8C00FFFA04 /* ZFPlayer.h */,
-				A7AA5C0E20C7CA8C00FFFA04 /* ZFBrightnessView.m */,
-				A7AA5C0F20C7CA8C00FFFA04 /* ZFPlayer.bundle */,
-				A7AA5C1020C7CA8C00FFFA04 /* ZFPlayerModel.h */,
-				A7AA5C1120C7CA8C00FFFA04 /* ASValuePopUpView.m */,
-				A7AA5C1220C7CA8C00FFFA04 /* ZFPlayerControlView.m */,
-				A7AA5C1320C7CA8C00FFFA04 /* ZFPlayerView.m */,
-				A7AA5C1420C7CA8C00FFFA04 /* MMMaterialDesignSpinner.m */,
-				A7AA5C1520C7CA8C00FFFA04 /* ZFBrightnessView.h */,
-				A7AA5C1620C7CA8C00FFFA04 /* ZFNavigationController */,
-				A7AA5C1920C7CA8C00FFFA04 /* ASValueTrackingSlider.m */,
-			);
-			path = ZFPlayer;
-			sourceTree = "<group>";
-		};
-		A7AA5C0120C7CA8C00FFFA04 /* Category */ = {
-			isa = PBXGroup;
-			children = (
-				A7AA5C0220C7CA8C00FFFA04 /* UIWindow+CurrentViewController.h */,
-				A7AA5C0320C7CA8C00FFFA04 /* UIView+CustomControlView.h */,
-				A7AA5C0420C7CA8C00FFFA04 /* UIViewController+ZFPlayerRotation.h */,
-				A7AA5C0520C7CA8C00FFFA04 /* UIImageView+ZFCache.h */,
-				A7AA5C0620C7CA8C00FFFA04 /* UIWindow+CurrentViewController.m */,
-				A7AA5C0720C7CA8C00FFFA04 /* UIView+CustomControlView.m */,
-				A7AA5C0820C7CA8C00FFFA04 /* UIImageView+ZFCache.m */,
-				A7AA5C0920C7CA8C00FFFA04 /* UIViewController+ZFPlayerRotation.m */,
-			);
-			path = Category;
-			sourceTree = "<group>";
-		};
-		A7AA5C1620C7CA8C00FFFA04 /* ZFNavigationController */ = {
-			isa = PBXGroup;
-			children = (
-				A7AA5C1720C7CA8C00FFFA04 /* UINavigationController+ZFFullscreenPopGesture.m */,
-				A7AA5C1820C7CA8C00FFFA04 /* UINavigationController+ZFFullscreenPopGesture.h */,
-			);
-			path = ZFNavigationController;
-			sourceTree = "<group>";
-		};
-		A7AA5C1A20C7CA8C00FFFA04 /* Alipay */ = {
-			isa = PBXGroup;
-			children = (
-				A7AA5C1B20C7CA8C00FFFA04 /* AlipaySDK.bundle */,
-				A7AA5C1C20C7CA8C00FFFA04 /* AlipaySDK.framework */,
-			);
-			path = Alipay;
-			sourceTree = "<group>";
-		};
-		A7AA5C1D20C7CA8C00FFFA04 /* TZImagePickerController */ = {
-			isa = PBXGroup;
-			children = (
-				A7AA5C1E20C7CA8C00FFFA04 /* TZPhotoPreviewCell.h */,
-				A7AA5C1F20C7CA8C00FFFA04 /* TZPhotoPickerController.h */,
-				A7AA5C2020C7CA8C00FFFA04 /* TZImageCropManager.m */,
-				A7AA5C2120C7CA8C00FFFA04 /* TZImageManager.h */,
-				A7AA5C2220C7CA8C00FFFA04 /* TZAssetCell.m */,
-				A7AA5C2320C7CA8C00FFFA04 /* TZVideoPlayerController.m */,
-				A7AA5C2420C7CA8C00FFFA04 /* TZAssetModel.m */,
-				A7AA5C2520C7CA8C00FFFA04 /* NSBundle+TZImagePicker.m */,
-				A7AA5C2620C7CA8C00FFFA04 /* TZLocationManager.h */,
-				A7AA5C2720C7CA8C00FFFA04 /* TZImagePickerController.h */,
-				A7AA5C2820C7CA8C00FFFA04 /* UIView+Layout.m */,
-				A7AA5C2920C7CA8C00FFFA04 /* TZPhotoPreviewController.m */,
-				A7AA5C2A20C7CA8C00FFFA04 /* TZImagePickerController.bundle */,
-				A7AA5C2B20C7CA8C00FFFA04 /* TZProgressView.m */,
-				A7AA5C2C20C7CA8C00FFFA04 /* TZGifPhotoPreviewController.h */,
-				A7AA5C2D20C7CA8C00FFFA04 /* TZAssetCell.h */,
-				A7AA5C2E20C7CA8C00FFFA04 /* TZImageManager.m */,
-				A7AA5C2F20C7CA8C00FFFA04 /* TZImageCropManager.h */,
-				A7AA5C3020C7CA8C00FFFA04 /* TZPhotoPickerController.m */,
-				A7AA5C3120C7CA8C00FFFA04 /* TZPhotoPreviewCell.m */,
-				A7AA5C3220C7CA8C00FFFA04 /* NSBundle+TZImagePicker.h */,
-				A7AA5C3320C7CA8C00FFFA04 /* TZAssetModel.h */,
-				A7AA5C3420C7CA8C00FFFA04 /* TZVideoPlayerController.h */,
-				A7AA5C3520C7CA8C00FFFA04 /* TZPhotoPreviewController.h */,
-				A7AA5C3620C7CA8C00FFFA04 /* UIView+Layout.h */,
-				A7AA5C3720C7CA8C00FFFA04 /* TZImagePickerController.m */,
-				A7AA5C3820C7CA8C00FFFA04 /* TZLocationManager.m */,
-				A7AA5C3920C7CA8C00FFFA04 /* TZGifPhotoPreviewController.m */,
-				A7AA5C3A20C7CA8C00FFFA04 /* TZProgressView.h */,
-			);
-			path = TZImagePickerController;
-			sourceTree = "<group>";
-		};
 		A7AA5CDB20C7CA8C00FFFA04 /* Utils */ = {
 			isa = PBXGroup;
 			children = (
@@ -840,6 +918,490 @@
 			path = ADTabBarItemAnimation;
 			sourceTree = "<group>";
 		};
+		A7AA5DBF20C7CFB900FFFA04 /* ThirdPart */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5DC020C7CFB900FFFA04 /* lame */,
+				A7AA5DC320C7CFB900FFFA04 /* YCXMenu */,
+				A7AA5DE220C7CFB900FFFA04 /* ChineseSorting */,
+				A7AA5DE520C7CFB900FFFA04 /* ZFPlayer */,
+				A7AA5E0320C7CFB900FFFA04 /* Alipay */,
+				A7AA5E0620C7CFB900FFFA04 /* TZImagePickerController */,
+				A7AA5E2420C7CFB900FFFA04 /* MSSBrowse */,
+				A7AA5E4020C7CFB900FFFA04 /* ZFChart */,
+				A7AA5E9320C7CFB900FFFA04 /* WYChart */,
+				A7AA5EBF20C7CFB900FFFA04 /* JHGridView */,
+			);
+			path = ThirdPart;
+			sourceTree = "<group>";
+		};
+		A7AA5DC020C7CFB900FFFA04 /* lame */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5DC120C7CFB900FFFA04 /* libmp3lame.a */,
+				A7AA5DC220C7CFB900FFFA04 /* lame.h */,
+			);
+			path = lame;
+			sourceTree = "<group>";
+		};
+		A7AA5DC320C7CFB900FFFA04 /* YCXMenu */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5DC420C7CFB900FFFA04 /* YCXMenu.m */,
+				A7AA5DC520C7CFB900FFFA04 /* YCXMenuItem.m */,
+				A7AA5DC620C7CFB900FFFA04 /* YCXMenuItem.h */,
+				A7AA5DC720C7CFB900FFFA04 /* YCXMenu.h */,
+			);
+			path = YCXMenu;
+			sourceTree = "<group>";
+		};
+		A7AA5DE220C7CFB900FFFA04 /* ChineseSorting */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5DE320C7CFB900FFFA04 /* BMChineseSort.h */,
+				A7AA5DE420C7CFB900FFFA04 /* BMChineseSort.m */,
+			);
+			path = ChineseSorting;
+			sourceTree = "<group>";
+		};
+		A7AA5DE520C7CFB900FFFA04 /* ZFPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5DE620C7CFB900FFFA04 /* ZFPlayerModel.m */,
+				A7AA5DE720C7CFB900FFFA04 /* ZFPlayerControlViewDelegate.h */,
+				A7AA5DE820C7CFB900FFFA04 /* ZFPlayerControlView.h */,
+				A7AA5DE920C7CFB900FFFA04 /* ASValuePopUpView.h */,
+				A7AA5DEA20C7CFB900FFFA04 /* Category */,
+				A7AA5DF320C7CFB900FFFA04 /* MMMaterialDesignSpinner.h */,
+				A7AA5DF420C7CFB900FFFA04 /* ZFPlayerView.h */,
+				A7AA5DF520C7CFB900FFFA04 /* ASValueTrackingSlider.h */,
+				A7AA5DF620C7CFB900FFFA04 /* ZFPlayer.h */,
+				A7AA5DF720C7CFB900FFFA04 /* ZFBrightnessView.m */,
+				A7AA5DF820C7CFB900FFFA04 /* ZFPlayer.bundle */,
+				A7AA5DF920C7CFB900FFFA04 /* ZFPlayerModel.h */,
+				A7AA5DFA20C7CFB900FFFA04 /* ASValuePopUpView.m */,
+				A7AA5DFB20C7CFB900FFFA04 /* ZFPlayerControlView.m */,
+				A7AA5DFC20C7CFB900FFFA04 /* ZFPlayerView.m */,
+				A7AA5DFD20C7CFB900FFFA04 /* MMMaterialDesignSpinner.m */,
+				A7AA5DFE20C7CFB900FFFA04 /* ZFBrightnessView.h */,
+				A7AA5DFF20C7CFB900FFFA04 /* ZFNavigationController */,
+				A7AA5E0220C7CFB900FFFA04 /* ASValueTrackingSlider.m */,
+			);
+			path = ZFPlayer;
+			sourceTree = "<group>";
+		};
+		A7AA5DEA20C7CFB900FFFA04 /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5DEB20C7CFB900FFFA04 /* UIWindow+CurrentViewController.h */,
+				A7AA5DEC20C7CFB900FFFA04 /* UIView+CustomControlView.h */,
+				A7AA5DED20C7CFB900FFFA04 /* UIViewController+ZFPlayerRotation.h */,
+				A7AA5DEE20C7CFB900FFFA04 /* UIImageView+ZFCache.h */,
+				A7AA5DEF20C7CFB900FFFA04 /* UIWindow+CurrentViewController.m */,
+				A7AA5DF020C7CFB900FFFA04 /* UIView+CustomControlView.m */,
+				A7AA5DF120C7CFB900FFFA04 /* UIImageView+ZFCache.m */,
+				A7AA5DF220C7CFB900FFFA04 /* UIViewController+ZFPlayerRotation.m */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		A7AA5DFF20C7CFB900FFFA04 /* ZFNavigationController */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E0020C7CFB900FFFA04 /* UINavigationController+ZFFullscreenPopGesture.m */,
+				A7AA5E0120C7CFB900FFFA04 /* UINavigationController+ZFFullscreenPopGesture.h */,
+			);
+			path = ZFNavigationController;
+			sourceTree = "<group>";
+		};
+		A7AA5E0320C7CFB900FFFA04 /* Alipay */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E0420C7CFB900FFFA04 /* AlipaySDK.bundle */,
+				A7AA5E0520C7CFB900FFFA04 /* AlipaySDK.framework */,
+			);
+			path = Alipay;
+			sourceTree = "<group>";
+		};
+		A7AA5E0620C7CFB900FFFA04 /* TZImagePickerController */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E0720C7CFB900FFFA04 /* TZPhotoPreviewCell.h */,
+				A7AA5E0820C7CFB900FFFA04 /* TZPhotoPickerController.h */,
+				A7AA5E0920C7CFB900FFFA04 /* TZImageCropManager.m */,
+				A7AA5E0A20C7CFB900FFFA04 /* TZImageManager.h */,
+				A7AA5E0B20C7CFB900FFFA04 /* TZAssetCell.m */,
+				A7AA5E0C20C7CFB900FFFA04 /* TZVideoPlayerController.m */,
+				A7AA5E0D20C7CFB900FFFA04 /* TZAssetModel.m */,
+				A7AA5E0E20C7CFB900FFFA04 /* NSBundle+TZImagePicker.m */,
+				A7AA5E0F20C7CFB900FFFA04 /* TZLocationManager.h */,
+				A7AA5E1020C7CFB900FFFA04 /* TZImagePickerController.h */,
+				A7AA5E1120C7CFB900FFFA04 /* UIView+Layout.m */,
+				A7AA5E1220C7CFB900FFFA04 /* TZPhotoPreviewController.m */,
+				A7AA5E1320C7CFB900FFFA04 /* TZImagePickerController.bundle */,
+				A7AA5E1420C7CFB900FFFA04 /* TZProgressView.m */,
+				A7AA5E1520C7CFB900FFFA04 /* TZGifPhotoPreviewController.h */,
+				A7AA5E1620C7CFB900FFFA04 /* TZAssetCell.h */,
+				A7AA5E1720C7CFB900FFFA04 /* TZImageManager.m */,
+				A7AA5E1820C7CFB900FFFA04 /* TZImageCropManager.h */,
+				A7AA5E1920C7CFB900FFFA04 /* TZPhotoPickerController.m */,
+				A7AA5E1A20C7CFB900FFFA04 /* TZPhotoPreviewCell.m */,
+				A7AA5E1B20C7CFB900FFFA04 /* NSBundle+TZImagePicker.h */,
+				A7AA5E1C20C7CFB900FFFA04 /* TZAssetModel.h */,
+				A7AA5E1D20C7CFB900FFFA04 /* TZVideoPlayerController.h */,
+				A7AA5E1E20C7CFB900FFFA04 /* TZPhotoPreviewController.h */,
+				A7AA5E1F20C7CFB900FFFA04 /* UIView+Layout.h */,
+				A7AA5E2020C7CFB900FFFA04 /* TZImagePickerController.m */,
+				A7AA5E2120C7CFB900FFFA04 /* TZLocationManager.m */,
+				A7AA5E2220C7CFB900FFFA04 /* TZGifPhotoPreviewController.m */,
+				A7AA5E2320C7CFB900FFFA04 /* TZProgressView.h */,
+			);
+			path = TZImagePickerController;
+			sourceTree = "<group>";
+		};
+		A7AA5E2420C7CFB900FFFA04 /* MSSBrowse */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E3E20C7CFB900FFFA04 /* mss_browseLoading@2x.png */,
+				A7AA5E3920C7CFB900FFFA04 /* mss_browseLoading@3x.png */,
+				A7AA5E2B20C7CFB900FFFA04 /* MSSBrowseActionSheet.h */,
+				A7AA5E3220C7CFB900FFFA04 /* MSSBrowseActionSheet.m */,
+				A7AA5E2C20C7CFB900FFFA04 /* MSSBrowseActionSheetCell.h */,
+				A7AA5E3C20C7CFB900FFFA04 /* MSSBrowseActionSheetCell.m */,
+				A7AA5E2820C7CFB900FFFA04 /* MSSBrowseBaseViewController.h */,
+				A7AA5E3520C7CFB900FFFA04 /* MSSBrowseBaseViewController.m */,
+				A7AA5E3A20C7CFB900FFFA04 /* MSSBrowseCollectionViewCell.h */,
+				A7AA5E2E20C7CFB900FFFA04 /* MSSBrowseCollectionViewCell.m */,
+				A7AA5E3120C7CFB900FFFA04 /* MSSBrowseDefine.h */,
+				A7AA5E3620C7CFB900FFFA04 /* MSSBrowseLoadingImageView.h */,
+				A7AA5E2720C7CFB900FFFA04 /* MSSBrowseLoadingImageView.m */,
+				A7AA5E3B20C7CFB900FFFA04 /* MSSBrowseLocalViewController.h */,
+				A7AA5E2D20C7CFB900FFFA04 /* MSSBrowseLocalViewController.m */,
+				A7AA5E3D20C7CFB900FFFA04 /* MSSBrowseModel.h */,
+				A7AA5E3020C7CFB900FFFA04 /* MSSBrowseModel.m */,
+				A7AA5E2A20C7CFB900FFFA04 /* MSSBrowseNetworkViewController.h */,
+				A7AA5E3320C7CFB900FFFA04 /* MSSBrowseNetworkViewController.m */,
+				A7AA5E2520C7CFB900FFFA04 /* MSSBrowseRemindView.h */,
+				A7AA5E3820C7CFB900FFFA04 /* MSSBrowseRemindView.m */,
+				A7AA5E2620C7CFB900FFFA04 /* MSSBrowseZoomScrollView.h */,
+				A7AA5E3720C7CFB900FFFA04 /* MSSBrowseZoomScrollView.m */,
+				A7AA5E2920C7CFB900FFFA04 /* UIImage+MSSScale.h */,
+				A7AA5E3420C7CFB900FFFA04 /* UIImage+MSSScale.m */,
+				A7AA5E2F20C7CFB900FFFA04 /* UIView+MSSLayout.h */,
+				A7AA5E3F20C7CFB900FFFA04 /* UIView+MSSLayout.m */,
+			);
+			path = MSSBrowse;
+			sourceTree = "<group>";
+		};
+		A7AA5E4020C7CFB900FFFA04 /* ZFChart */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E4120C7CFB900FFFA04 /* ZFGenericChart */,
+				A7AA5E4420C7CFB900FFFA04 /* ZFBarChart */,
+				A7AA5E4920C7CFB900FFFA04 /* Category */,
+				A7AA5E5420C7CFB900FFFA04 /* ZFCirqueChart */,
+				A7AA5E5920C7CFB900FFFA04 /* ZFHorizontalAxis */,
+				A7AA5E5C20C7CFB900FFFA04 /* Other */,
+				A7AA5E6320C7CFB900FFFA04 /* ZFPieChart */,
+				A7AA5E6A20C7CFB900FFFA04 /* ZFLineChart */,
+				A7AA5E7120C7CFB900FFFA04 /* Component */,
+				A7AA5E7A20C7CFB900FFFA04 /* ZFRadarChart */,
+				A7AA5E8120C7CFB900FFFA04 /* ZFGenericAxis */,
+				A7AA5E8420C7CFB900FFFA04 /* Model */,
+				A7AA5E8920C7CFB900FFFA04 /* ZFWaveChart */,
+				A7AA5E8E20C7CFB900FFFA04 /* ZFHorizontalBarChart */,
+			);
+			path = ZFChart;
+			sourceTree = "<group>";
+		};
+		A7AA5E4120C7CFB900FFFA04 /* ZFGenericChart */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E4220C7CFB900FFFA04 /* ZFGenericChart.h */,
+				A7AA5E4320C7CFB900FFFA04 /* ZFGenericChart.m */,
+			);
+			path = ZFGenericChart;
+			sourceTree = "<group>";
+		};
+		A7AA5E4420C7CFB900FFFA04 /* ZFBarChart */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E4520C7CFB900FFFA04 /* ZFBarChart.h */,
+				A7AA5E4620C7CFB900FFFA04 /* ZFBar.h */,
+				A7AA5E4720C7CFB900FFFA04 /* ZFBarChart.m */,
+				A7AA5E4820C7CFB900FFFA04 /* ZFBar.m */,
+			);
+			path = ZFBarChart;
+			sourceTree = "<group>";
+		};
+		A7AA5E4920C7CFB900FFFA04 /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E4A20C7CFB900FFFA04 /* UIView+Zirkfied.m */,
+				A7AA5E4B20C7CFB900FFFA04 /* UIColor+Zirkfied.h */,
+				A7AA5E4C20C7CFB900FFFA04 /* UIBezierPath+Zirkfied.m */,
+				A7AA5E4D20C7CFB900FFFA04 /* NSString+Zirkfied.h */,
+				A7AA5E4E20C7CFB900FFFA04 /* NSNumber+Zirkfied.h */,
+				A7AA5E4F20C7CFB900FFFA04 /* UIView+Zirkfied.h */,
+				A7AA5E5020C7CFB900FFFA04 /* UIColor+Zirkfied.m */,
+				A7AA5E5120C7CFB900FFFA04 /* UIBezierPath+Zirkfied.h */,
+				A7AA5E5220C7CFB900FFFA04 /* NSString+Zirkfied.m */,
+				A7AA5E5320C7CFB900FFFA04 /* NSNumber+Zirkfied.m */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		A7AA5E5420C7CFB900FFFA04 /* ZFCirqueChart */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E5520C7CFB900FFFA04 /* ZFCirque.h */,
+				A7AA5E5620C7CFB900FFFA04 /* ZFCirqueChart.m */,
+				A7AA5E5720C7CFB900FFFA04 /* ZFCirqueChart.h */,
+				A7AA5E5820C7CFB900FFFA04 /* ZFCirque.m */,
+			);
+			path = ZFCirqueChart;
+			sourceTree = "<group>";
+		};
+		A7AA5E5920C7CFB900FFFA04 /* ZFHorizontalAxis */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E5A20C7CFB900FFFA04 /* ZFHorizontalAxis.m */,
+				A7AA5E5B20C7CFB900FFFA04 /* ZFHorizontalAxis.h */,
+			);
+			path = ZFHorizontalAxis;
+			sourceTree = "<group>";
+		};
+		A7AA5E5C20C7CFB900FFFA04 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E5D20C7CFB900FFFA04 /* ZFColor.h */,
+				A7AA5E5E20C7CFB900FFFA04 /* ZFConst.m */,
+				A7AA5E5F20C7CFB900FFFA04 /* ZFChart.h */,
+				A7AA5E6020C7CFB900FFFA04 /* ZFMethod.h */,
+				A7AA5E6120C7CFB900FFFA04 /* ZFConst.h */,
+				A7AA5E6220C7CFB900FFFA04 /* ZFMethod.m */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		A7AA5E6320C7CFB900FFFA04 /* ZFPieChart */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E6420C7CFB900FFFA04 /* ZFPieChart.m */,
+				A7AA5E6520C7CFB900FFFA04 /* ZFPie.h */,
+				A7AA5E6620C7CFB900FFFA04 /* ZFTranslucencePath.h */,
+				A7AA5E6720C7CFB900FFFA04 /* ZFPieChart.h */,
+				A7AA5E6820C7CFB900FFFA04 /* ZFPie.m */,
+				A7AA5E6920C7CFB900FFFA04 /* ZFTranslucencePath.m */,
+			);
+			path = ZFPieChart;
+			sourceTree = "<group>";
+		};
+		A7AA5E6A20C7CFB900FFFA04 /* ZFLineChart */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E6B20C7CFB900FFFA04 /* ZFCircle.h */,
+				A7AA5E6C20C7CFB900FFFA04 /* ZFLineChart.m */,
+				A7AA5E6D20C7CFB900FFFA04 /* ZFLine.h */,
+				A7AA5E6E20C7CFB900FFFA04 /* ZFLineChart.h */,
+				A7AA5E6F20C7CFB900FFFA04 /* ZFCircle.m */,
+				A7AA5E7020C7CFB900FFFA04 /* ZFLine.m */,
+			);
+			path = ZFLineChart;
+			sourceTree = "<group>";
+		};
+		A7AA5E7120C7CFB900FFFA04 /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E7220C7CFB900FFFA04 /* ZFPopoverLabel.h */,
+				A7AA5E7320C7CFB900FFFA04 /* ZFXAxisLine.m */,
+				A7AA5E7420C7CFB900FFFA04 /* ZFYAxisLine.m */,
+				A7AA5E7520C7CFB900FFFA04 /* ZFLabel.h */,
+				A7AA5E7620C7CFB900FFFA04 /* ZFPopoverLabel.m */,
+				A7AA5E7720C7CFB900FFFA04 /* ZFXAxisLine.h */,
+				A7AA5E7820C7CFB900FFFA04 /* ZFLabel.m */,
+				A7AA5E7920C7CFB900FFFA04 /* ZFYAxisLine.h */,
+			);
+			path = Component;
+			sourceTree = "<group>";
+		};
+		A7AA5E7A20C7CFB900FFFA04 /* ZFRadarChart */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E7B20C7CFB900FFFA04 /* ZFRadar.m */,
+				A7AA5E7C20C7CFB900FFFA04 /* ZFPolygon.m */,
+				A7AA5E7D20C7CFB900FFFA04 /* ZFRadarChart.m */,
+				A7AA5E7E20C7CFB900FFFA04 /* ZFRadar.h */,
+				A7AA5E7F20C7CFB900FFFA04 /* ZFPolygon.h */,
+				A7AA5E8020C7CFB900FFFA04 /* ZFRadarChart.h */,
+			);
+			path = ZFRadarChart;
+			sourceTree = "<group>";
+		};
+		A7AA5E8120C7CFB900FFFA04 /* ZFGenericAxis */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E8220C7CFB900FFFA04 /* ZFGenericAxis.h */,
+				A7AA5E8320C7CFB900FFFA04 /* ZFGenericAxis.m */,
+			);
+			path = ZFGenericAxis;
+			sourceTree = "<group>";
+		};
+		A7AA5E8420C7CFB900FFFA04 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E8520C7CFB900FFFA04 /* ZFGradientAttribute.h */,
+				A7AA5E8620C7CFB900FFFA04 /* ZFCurveAttribute.h */,
+				A7AA5E8720C7CFB900FFFA04 /* ZFGradientAttribute.m */,
+				A7AA5E8820C7CFB900FFFA04 /* ZFCurveAttribute.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A7AA5E8920C7CFB900FFFA04 /* ZFWaveChart */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E8A20C7CFB900FFFA04 /* ZFWaveChart.h */,
+				A7AA5E8B20C7CFB900FFFA04 /* ZFWave.h */,
+				A7AA5E8C20C7CFB900FFFA04 /* ZFWaveChart.m */,
+				A7AA5E8D20C7CFB900FFFA04 /* ZFWave.m */,
+			);
+			path = ZFWaveChart;
+			sourceTree = "<group>";
+		};
+		A7AA5E8E20C7CFB900FFFA04 /* ZFHorizontalBarChart */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E8F20C7CFB900FFFA04 /* ZFHorizontalBar.h */,
+				A7AA5E9020C7CFB900FFFA04 /* ZFHorizontalBarChart.m */,
+				A7AA5E9120C7CFB900FFFA04 /* ZFHorizontalBar.m */,
+				A7AA5E9220C7CFB900FFFA04 /* ZFHorizontalBarChart.h */,
+			);
+			path = ZFHorizontalBarChart;
+			sourceTree = "<group>";
+		};
+		A7AA5E9320C7CFB900FFFA04 /* WYChart */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E9420C7CFB900FFFA04 /* Classes */,
+				A7AA5EBD20C7CFB900FFFA04 /* Assets */,
+			);
+			path = WYChart;
+			sourceTree = "<group>";
+		};
+		A7AA5E9420C7CFB900FFFA04 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E9520C7CFB900FFFA04 /* WYLineChart */,
+				A7AA5EAB20C7CFB900FFFA04 /* WYPieChart */,
+				A7AA5EBC20C7CFB900FFFA04 /* .gitkeep */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		A7AA5E9520C7CFB900FFFA04 /* WYLineChart */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E9620C7CFB900FFFA04 /* Background */,
+				A7AA5E9B20C7CFB900FFFA04 /* Foreground */,
+				A7AA5EA220C7CFB900FFFA04 /* Main */,
+			);
+			path = WYLineChart;
+			sourceTree = "<group>";
+		};
+		A7AA5E9620C7CFB900FFFA04 /* Background */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E9720C7CFB900FFFA04 /* WYLineChartCoordinateView.h */,
+				A7AA5E9820C7CFB900FFFA04 /* WYLineChartBackgroundView.h */,
+				A7AA5E9920C7CFB900FFFA04 /* WYLineChartCoordinateView.m */,
+				A7AA5E9A20C7CFB900FFFA04 /* WYLineChartBackgroundView.m */,
+			);
+			path = Background;
+			sourceTree = "<group>";
+		};
+		A7AA5E9B20C7CFB900FFFA04 /* Foreground */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5E9C20C7CFB900FFFA04 /* WYLineChartJunctionShape.h */,
+				A7AA5E9D20C7CFB900FFFA04 /* WYLineChartReferenceLineView.m */,
+				A7AA5E9E20C7CFB900FFFA04 /* WYLineChartMainLineView.m */,
+				A7AA5E9F20C7CFB900FFFA04 /* WYLineChartReferenceLineView.h */,
+				A7AA5EA020C7CFB900FFFA04 /* WYLineChartJunctionShape.m */,
+				A7AA5EA120C7CFB900FFFA04 /* WYLineChartMainLineView.h */,
+			);
+			path = Foreground;
+			sourceTree = "<group>";
+		};
+		A7AA5EA220C7CFB900FFFA04 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5EA320C7CFB900FFFA04 /* WYLineChartPoint.h */,
+				A7AA5EA420C7CFB900FFFA04 /* WYLineChartView.h */,
+				A7AA5EA520C7CFB900FFFA04 /* WYLineChartCalculator.h */,
+				A7AA5EA620C7CFB900FFFA04 /* WYChartCategory.m */,
+				A7AA5EA720C7CFB900FFFA04 /* WYLineChartView.m */,
+				A7AA5EA820C7CFB900FFFA04 /* WYLineChartPoint.m */,
+				A7AA5EA920C7CFB900FFFA04 /* WYChartCategory.h */,
+				A7AA5EAA20C7CFB900FFFA04 /* WYLineChartCalculator.m */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		A7AA5EAB20C7CFB900FFFA04 /* WYPieChart */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5EAC20C7CFB900FFFA04 /* Components */,
+				A7AA5EB520C7CFB900FFFA04 /* Main */,
+			);
+			path = WYPieChart;
+			sourceTree = "<group>";
+		};
+		A7AA5EAC20C7CFB900FFFA04 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5EAD20C7CFB900FFFA04 /* WYMainPieChartView.h */,
+				A7AA5EAE20C7CFB900FFFA04 /* WYPieCenterCircle.m */,
+				A7AA5EAF20C7CFB900FFFA04 /* WYSectorLayer.h */,
+				A7AA5EB020C7CFB900FFFA04 /* WYPieChartForegroundView.m */,
+				A7AA5EB120C7CFB900FFFA04 /* WYMainPieChartView.m */,
+				A7AA5EB220C7CFB900FFFA04 /* WYPieCenterCircle.h */,
+				A7AA5EB320C7CFB900FFFA04 /* WYPieChartForegroundView.h */,
+				A7AA5EB420C7CFB900FFFA04 /* WYSectorLayer.m */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		A7AA5EB520C7CFB900FFFA04 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5EB620C7CFB900FFFA04 /* WYPieChartView.h */,
+				A7AA5EB720C7CFB900FFFA04 /* WYPieSector.m */,
+				A7AA5EB820C7CFB900FFFA04 /* WYPieChartCalculator.h */,
+				A7AA5EB920C7CFB900FFFA04 /* WYPieSector.h */,
+				A7AA5EBA20C7CFB900FFFA04 /* WYPieChartView.m */,
+				A7AA5EBB20C7CFB900FFFA04 /* WYPieChartCalculator.m */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		A7AA5EBD20C7CFB900FFFA04 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5EBE20C7CFB900FFFA04 /* .gitkeep */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		A7AA5EBF20C7CFB900FFFA04 /* JHGridView */ = {
+			isa = PBXGroup;
+			children = (
+				A7AA5EC020C7CFB900FFFA04 /* JHGridView.h */,
+				A7AA5EC120C7CFB900FFFA04 /* JHGridView.m */,
+			);
+			path = JHGridView;
+			sourceTree = "<group>";
+		};
 		B0B244C54CC4F211E23846D0 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -927,13 +1489,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7AA5D2820C7CA8D00FFFA04 /* ZFPlayer.bundle in Resources */,
+				A7AA5ED620C7CFB900FFFA04 /* ZFPlayer.bundle in Resources */,
 				A7AA5BAB20C7C79400FFFA04 /* Info.plist in Resources */,
-				A7AA5D2F20C7CA8D00FFFA04 /* AlipaySDK.bundle in Resources */,
-				A7AA5D3820C7CA8D00FFFA04 /* TZImagePickerController.bundle in Resources */,
+				A7AA5EDD20C7CFB900FFFA04 /* AlipaySDK.bundle in Resources */,
+				A7AA5F2D20C7CFB900FFFA04 /* .gitkeep in Resources */,
+				A7AA5EE620C7CFB900FFFA04 /* TZImagePickerController.bundle in Resources */,
+				A7AA5EF820C7CFB900FFFA04 /* mss_browseLoading@3x.png in Resources */,
 				A7AA5BAA20C7C79400FFFA04 /* Main.storyboard in Resources */,
 				A7AA5BA820C7C79400FFFA04 /* Assets.xcassets in Resources */,
+				A7AA5F2E20C7CFB900FFFA04 /* .gitkeep in Resources */,
 				A7AA5BA920C7C79400FFFA04 /* LaunchScreen.storyboard in Resources */,
+				A7AA5EFA20C7CFB900FFFA04 /* mss_browseLoading@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1015,71 +1581,135 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7AA5DA820C7CBAF00FFFA04 /* JelloAnimation.m in Sources */,
+				A7AA5EF720C7CFB900FFFA04 /* MSSBrowseRemindView.m in Sources */,
 				A7AA5D0E20C7CA8C00FFFA04 /* UILabel+Extension.m in Sources */,
 				A7AA5D0720C7CA8C00FFFA04 /* UIButton+Extension.m in Sources */,
 				A7AA5D0A20C7CA8C00FFFA04 /* UIImageView+GIF.m in Sources */,
 				A7AA5D8920C7CA8D00FFFA04 /* BaseViewController.m in Sources */,
+				A7AA5F2B20C7CFB900FFFA04 /* WYPieChartView.m in Sources */,
+				A7AA5EF420C7CFB900FFFA04 /* UIImage+MSSScale.m in Sources */,
+				A7AA5EDC20C7CFB900FFFA04 /* ASValueTrackingSlider.m in Sources */,
+				A7AA5EE220C7CFB900FFFA04 /* TZAssetModel.m in Sources */,
 				382FCF761E67F4B60092DE17 /* AppDelegate.m in Sources */,
+				A7AA5EE420C7CFB900FFFA04 /* UIView+Layout.m in Sources */,
+				A7AA5EE720C7CFB900FFFA04 /* TZProgressView.m in Sources */,
 				A7AA5D1320C7CA8C00FFFA04 /* NSString+MD5.m in Sources */,
+				A7AA5EFE20C7CFB900FFFA04 /* ZFBar.m in Sources */,
+				A7AA5EEC20C7CFB900FFFA04 /* TZLocationManager.m in Sources */,
+				A7AA5EE520C7CFB900FFFA04 /* TZPhotoPreviewController.m in Sources */,
+				A7AA5F1A20C7CFB900FFFA04 /* ZFWave.m in Sources */,
 				A7AA5D8C20C7CA8D00FFFA04 /* MotionShadowView.m in Sources */,
+				A7AA5ED220C7CFB900FFFA04 /* UIView+CustomControlView.m in Sources */,
+				A7AA5EFC20C7CFB900FFFA04 /* ZFGenericChart.m in Sources */,
+				A7AA5F0220C7CFB900FFFA04 /* NSString+Zirkfied.m in Sources */,
+				A7AA5ED320C7CFB900FFFA04 /* UIImageView+ZFCache.m in Sources */,
+				A7AA5EFB20C7CFB900FFFA04 /* UIView+MSSLayout.m in Sources */,
 				A7AA5D8320C7CA8D00FFFA04 /* ADClipImageViewController.m in Sources */,
+				A7AA5EC420C7CFB900FFFA04 /* YCXMenuItem.m in Sources */,
+				A7AA5F2F20C7CFB900FFFA04 /* JHGridView.m in Sources */,
 				A7AA5D8D20C7CA8D00FFFA04 /* ScanUtil.m in Sources */,
-				A7AA5D3620C7CA8D00FFFA04 /* UIView+Layout.m in Sources */,
+				A7AA5F2C20C7CFB900FFFA04 /* WYPieChartCalculator.m in Sources */,
 				A7AA5D8A20C7CA8D00FFFA04 /* BaseTableCell.m in Sources */,
+				A7AA5EF620C7CFB900FFFA04 /* MSSBrowseZoomScrollView.m in Sources */,
+				A7AA5EF320C7CFB900FFFA04 /* MSSBrowseNetworkViewController.m in Sources */,
+				A7AA5ED420C7CFB900FFFA04 /* UIViewController+ZFPlayerRotation.m in Sources */,
+				A7AA5F1420C7CFB900FFFA04 /* ZFPolygon.m in Sources */,
+				A7AA5F2720C7CFB900FFFA04 /* WYPieChartForegroundView.m in Sources */,
 				A7AA5DA720C7CBAF00FFFA04 /* TabBarItemAnimation.m in Sources */,
 				A7AA5D8E20C7CA8D00FFFA04 /* KeyChain.m in Sources */,
-				A7AA5D3A20C7CA8D00FFFA04 /* TZImageManager.m in Sources */,
+				A7AA5F0720C7CFB900FFFA04 /* ZFConst.m in Sources */,
+				A7AA5F0020C7CFB900FFFA04 /* UIBezierPath+Zirkfied.m in Sources */,
+				A7AA5EE820C7CFB900FFFA04 /* TZImageManager.m in Sources */,
+				A7AA5EED20C7CFB900FFFA04 /* TZGifPhotoPreviewController.m in Sources */,
+				A7AA5EF120C7CFB900FFFA04 /* MSSBrowseModel.m in Sources */,
 				A7AA5D8520C7CA8D00FFFA04 /* NSArray+ArrayCheck.m in Sources */,
+				A7AA5F1D20C7CFB900FFFA04 /* WYLineChartCoordinateView.m in Sources */,
+				A7AA5F0620C7CFB900FFFA04 /* ZFHorizontalAxis.m in Sources */,
+				A7AA5EDA20C7CFB900FFFA04 /* MMMaterialDesignSpinner.m in Sources */,
+				A7AA5F2020C7CFB900FFFA04 /* WYLineChartMainLineView.m in Sources */,
 				A7AA5D0920C7CA8C00FFFA04 /* UIImage+Color.m in Sources */,
 				A7AA5DA420C7CBAF00FFFA04 /* ADTabBarSource.m in Sources */,
-				A7AA5D2920C7CA8D00FFFA04 /* ASValuePopUpView.m in Sources */,
+				A7AA5EE020C7CFB900FFFA04 /* TZAssetCell.m in Sources */,
 				A7AA5D0D20C7CA8C00FFFA04 /* UIImage+ImageEffects.m in Sources */,
+				A7AA5EF220C7CFB900FFFA04 /* MSSBrowseActionSheet.m in Sources */,
 				A7AA5D8420C7CA8D00FFFA04 /* NSMutableArray+MutableArrayCheck.m in Sources */,
-				A7AA5D2C20C7CA8D00FFFA04 /* MMMaterialDesignSpinner.m in Sources */,
 				A7AA5D8620C7CA8D00FFFA04 /* GroupShadowTableView.m in Sources */,
-				A7AA5D3520C7CA8D00FFFA04 /* NSBundle+TZImagePicker.m in Sources */,
-				A7AA5D3C20C7CA8D00FFFA04 /* TZPhotoPreviewCell.m in Sources */,
+				A7AA5ECF20C7CFB900FFFA04 /* BMChineseSort.m in Sources */,
 				A7AA5D0820C7CA8C00FFFA04 /* UIImage+Size.m in Sources */,
-				A7AA5D2220C7CA8D00FFFA04 /* ZFPlayerModel.m in Sources */,
-				A7AA5D2720C7CA8D00FFFA04 /* ZFBrightnessView.m in Sources */,
-				A7AA5D3220C7CA8D00FFFA04 /* TZAssetCell.m in Sources */,
+				A7AA5F0C20C7CFB900FFFA04 /* ZFLineChart.m in Sources */,
 				A7AA5DA920C7CBAF00FFFA04 /* AnimationFactory.m in Sources */,
-				A7AA5D3B20C7CA8D00FFFA04 /* TZPhotoPickerController.m in Sources */,
-				A7AA5D3920C7CA8D00FFFA04 /* TZProgressView.m in Sources */,
-				A7AA5D2520C7CA8D00FFFA04 /* UIImageView+ZFCache.m in Sources */,
+				A7AA5F2420C7CFB900FFFA04 /* WYLineChartPoint.m in Sources */,
+				A7AA5EC320C7CFB900FFFA04 /* YCXMenu.m in Sources */,
+				A7AA5F0120C7CFB900FFFA04 /* UIColor+Zirkfied.m in Sources */,
+				A7AA5ED820C7CFB900FFFA04 /* ZFPlayerControlView.m in Sources */,
+				A7AA5F0520C7CFB900FFFA04 /* ZFCirque.m in Sources */,
 				A7AA5D8820C7CA8D00FFFA04 /* ADAudioPlayer.m in Sources */,
+				A7AA5F0320C7CFB900FFFA04 /* NSNumber+Zirkfied.m in Sources */,
+				A7AA5F0E20C7CFB900FFFA04 /* ZFLine.m in Sources */,
+				A7AA5EE120C7CFB900FFFA04 /* TZVideoPlayerController.m in Sources */,
+				A7AA5EEA20C7CFB900FFFA04 /* TZPhotoPreviewCell.m in Sources */,
 				A7AA5D8720C7CA8D00FFFA04 /* ADBaseRequest.m in Sources */,
 				A7AA5D1220C7CA8C00FFFA04 /* UIColor+ColorHelper.m in Sources */,
-				A7AA5D3E20C7CA8D00FFFA04 /* TZLocationManager.m in Sources */,
+				A7AA5F0820C7CFB900FFFA04 /* ZFMethod.m in Sources */,
 				A7AA5D0F20C7CA8C00FFFA04 /* MBProgressHUD+Help.m in Sources */,
+				A7AA5ED920C7CFB900FFFA04 /* ZFPlayerView.m in Sources */,
+				A7AA5F1E20C7CFB900FFFA04 /* WYLineChartBackgroundView.m in Sources */,
 				382FCF9C1E67FD820092DE17 /* MineViewController.m in Sources */,
+				A7AA5F1220C7CFB900FFFA04 /* ZFLabel.m in Sources */,
+				A7AA5F2520C7CFB900FFFA04 /* WYLineChartCalculator.m in Sources */,
+				A7AA5ED720C7CFB900FFFA04 /* ASValuePopUpView.m in Sources */,
 				382FCF991E67FD700092DE17 /* HomeViewController.m in Sources */,
+				A7AA5EFD20C7CFB900FFFA04 /* ZFBarChart.m in Sources */,
+				A7AA5EF920C7CFB900FFFA04 /* MSSBrowseActionSheetCell.m in Sources */,
+				A7AA5F1320C7CFB900FFFA04 /* ZFRadar.m in Sources */,
+				A7AA5F0B20C7CFB900FFFA04 /* ZFTranslucencePath.m in Sources */,
+				A7AA5F2820C7CFB900FFFA04 /* WYMainPieChartView.m in Sources */,
+				A7AA5F0D20C7CFB900FFFA04 /* ZFCircle.m in Sources */,
+				A7AA5ED520C7CFB900FFFA04 /* ZFBrightnessView.m in Sources */,
+				A7AA5F1020C7CFB900FFFA04 /* ZFYAxisLine.m in Sources */,
+				A7AA5EE920C7CFB900FFFA04 /* TZPhotoPickerController.m in Sources */,
+				A7AA5F2320C7CFB900FFFA04 /* WYLineChartView.m in Sources */,
 				A7AA5D1120C7CA8C00FFFA04 /* NSString+Extension.m in Sources */,
-				A7AA5D3D20C7CA8D00FFFA04 /* TZImagePickerController.m in Sources */,
+				A7AA5F2920C7CFB900FFFA04 /* WYSectorLayer.m in Sources */,
+				A7AA5EEB20C7CFB900FFFA04 /* TZImagePickerController.m in Sources */,
+				A7AA5EEE20C7CFB900FFFA04 /* MSSBrowseLoadingImageView.m in Sources */,
 				A7AA5D1020C7CA8C00FFFA04 /* UIView+Frame.m in Sources */,
-				A7AA5D2120C7CA8D00FFFA04 /* BMChineseSort.m in Sources */,
+				A7AA5F1B20C7CFB900FFFA04 /* ZFHorizontalBarChart.m in Sources */,
+				A7AA5F0420C7CFB900FFFA04 /* ZFCirqueChart.m in Sources */,
 				A7AA5D8B20C7CA8D00FFFA04 /* BaseCollectionCell.m in Sources */,
+				A7AA5F0A20C7CFB900FFFA04 /* ZFPie.m in Sources */,
 				A7AA5D8220C7CA8D00FFFA04 /* WebViewController.m in Sources */,
-				A7AA5D2A20C7CA8D00FFFA04 /* ZFPlayerControlView.m in Sources */,
 				A7AA5DA520C7CBAF00FFFA04 /* ADTabBarController.m in Sources */,
-				A7AA5D3420C7CA8D00FFFA04 /* TZAssetModel.m in Sources */,
-				A7AA5D2620C7CA8D00FFFA04 /* UIViewController+ZFPlayerRotation.m in Sources */,
+				A7AA5EFF20C7CFB900FFFA04 /* UIView+Zirkfied.m in Sources */,
+				A7AA5F1120C7CFB900FFFA04 /* ZFPopoverLabel.m in Sources */,
+				A7AA5EDB20C7CFB900FFFA04 /* UINavigationController+ZFFullscreenPopGesture.m in Sources */,
+				A7AA5EF020C7CFB900FFFA04 /* MSSBrowseCollectionViewCell.m in Sources */,
+				A7AA5F1620C7CFB900FFFA04 /* ZFGenericAxis.m in Sources */,
+				A7AA5ED020C7CFB900FFFA04 /* ZFPlayerModel.m in Sources */,
 				A7AA5DA320C7CBAF00FFFA04 /* ADTabBarItem.m in Sources */,
-				A7AA5D2320C7CA8D00FFFA04 /* UIWindow+CurrentViewController.m in Sources */,
-				A7AA5D2E20C7CA8D00FFFA04 /* ASValueTrackingSlider.m in Sources */,
+				A7AA5F1820C7CFB900FFFA04 /* ZFCurveAttribute.m in Sources */,
 				A7AA5D9020C7CA8D00FFFA04 /* UUID.m in Sources */,
+				A7AA5F1520C7CFB900FFFA04 /* ZFRadarChart.m in Sources */,
+				A7AA5F2A20C7CFB900FFFA04 /* WYPieSector.m in Sources */,
 				A7AA5D0C20C7CA8C00FFFA04 /* UIImageView+LBBlurredImage.m in Sources */,
-				A7AA5D2B20C7CA8D00FFFA04 /* ZFPlayerView.m in Sources */,
+				A7AA5F1920C7CFB900FFFA04 /* ZFWaveChart.m in Sources */,
+				A7AA5F0F20C7CFB900FFFA04 /* ZFXAxisLine.m in Sources */,
+				A7AA5F2620C7CFB900FFFA04 /* WYPieCenterCircle.m in Sources */,
+				A7AA5EF520C7CFB900FFFA04 /* MSSBrowseBaseViewController.m in Sources */,
+				A7AA5F2220C7CFB900FFFA04 /* WYChartCategory.m in Sources */,
+				A7AA5EE320C7CFB900FFFA04 /* NSBundle+TZImagePicker.m in Sources */,
 				A7AA5DA620C7CBAF00FFFA04 /* ADTabBar.m in Sources */,
-				A7AA5D3320C7CA8D00FFFA04 /* TZVideoPlayerController.m in Sources */,
+				A7AA5F0920C7CFB900FFFA04 /* ZFPieChart.m in Sources */,
+				A7AA5ED120C7CFB900FFFA04 /* UIWindow+CurrentViewController.m in Sources */,
 				A7AA5D0B20C7CA8C00FFFA04 /* UIImageView+Extension.m in Sources */,
+				A7AA5EDF20C7CFB900FFFA04 /* TZImageCropManager.m in Sources */,
 				382FCF731E67F4B60092DE17 /* main.m in Sources */,
-				A7AA5D3120C7CA8D00FFFA04 /* TZImageCropManager.m in Sources */,
-				A7AA5D3F20C7CA8D00FFFA04 /* TZGifPhotoPreviewController.m in Sources */,
-				A7AA5D2D20C7CA8D00FFFA04 /* UINavigationController+ZFFullscreenPopGesture.m in Sources */,
-				A7AA5D3720C7CA8D00FFFA04 /* TZPhotoPreviewController.m in Sources */,
+				A7AA5EEF20C7CFB900FFFA04 /* MSSBrowseLocalViewController.m in Sources */,
+				A7AA5F1720C7CFB900FFFA04 /* ZFGradientAttribute.m in Sources */,
+				A7AA5F1F20C7CFB900FFFA04 /* WYLineChartReferenceLineView.m in Sources */,
 				A7AA5D8F20C7CA8D00FFFA04 /* EmptyView.m in Sources */,
-				A7AA5D2420C7CA8D00FFFA04 /* UIView+CustomControlView.m in Sources */,
+				A7AA5F2120C7CFB900FFFA04 /* WYLineChartJunctionShape.m in Sources */,
+				A7AA5F1C20C7CFB900FFFA04 /* ZFHorizontalBar.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
