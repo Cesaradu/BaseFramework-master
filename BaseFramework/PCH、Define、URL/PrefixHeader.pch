@@ -16,11 +16,10 @@
 
 #import "UIImageView+WebCache.h"
 #import "WebViewController.h"
-#import "BaseRequest.h"
-#import "WToast.h"
+#import "ADBaseRequest.h"
 #import "Define.h"
 #import "URL.h"
-#import "SDiPhoneVersion.h"
+#import "SDVersion.h"
 #import "AFNetworking.h"
 #import "Masonry.h"
 #import "UIColor+ColorHelper.h"

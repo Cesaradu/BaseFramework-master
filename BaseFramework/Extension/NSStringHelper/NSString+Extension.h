@@ -11,11 +11,23 @@
 @interface NSString (Extension)
 
 //判断字符串是否为空
-+ (BOOL)isNULL:(id)string;
++ (BOOL)isNULL:(NSString *)string;
 
 /*
  把JSON格式的字符串转换成字典
  */
 - (NSDictionary *)StringOfJsonConversionDictionary;
+
+//时间戳转化时间格式字符串
++ (NSString *)timeStringChangeToTime:(double) timeString;
+
+//日期转换几分钟前、几小时前
++ (NSString *)compareCurrentTime:(NSString *)str;
+
+//判断是否包含表情符号
++ (BOOL)isContainsEmoji:(NSString *)string;
+
+//判断两个日期大小
++ (int)compareOneDay:(NSString *)firstDay withAnotherDay:(NSString *)secondDay;
 
 @end

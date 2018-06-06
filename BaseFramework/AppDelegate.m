@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-#import "MainTabBarController.h"
+#import "ADTabBarController.h"
 #import <Bugly/Bugly.h>
 
 @interface AppDelegate ()
@@ -22,8 +22,8 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
-    MainTabBarController *mainVC = [[MainTabBarController alloc] init];
-    self.window.rootViewController = mainVC;
+    UINavigationController *navi = [[UINavigationController alloc] initWithRootViewController:[[ADTabBarController alloc] init]];
+    self.window.rootViewController = navi;
     
     //bugly 异常收集
     [Bugly startWithAppId:@"appid"];

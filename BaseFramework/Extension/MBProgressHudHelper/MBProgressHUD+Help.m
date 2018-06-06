@@ -15,11 +15,11 @@
     UIView* view = [[UIApplication sharedApplication].windows lastObject];
     MBProgressHUD *hud = [MBProgressHUD showHUDAddedTo:view animated:YES];
     hud.mode = MBProgressHUDModeText;
-    hud.labelText = string;
+    hud.label.text = string;
     hud.margin = 10.f;
     hud.yOffset = ScreenHeight*0.4;
     hud.removeFromSuperViewOnHide = YES;
-    [hud hide:YES afterDelay:0.9];
+    [hud hideAnimated:YES afterDelay:0.9];
 }
 
 + (void)showActivity:(NSString *)message
@@ -40,7 +40,7 @@
     // 快速显示一个提示信息
     MBProgressHUD *hud = [MBProgressHUD showHUDAddedTo:view animated:YES];
     hud.mode=  MBProgressHUDModeIndeterminate;
-    hud.labelText = message;
+    hud.label.text = message;
     // 隐藏时候从父控件中移除
     hud.removeFromSuperViewOnHide = YES;
     // YES代表需要蒙版效果

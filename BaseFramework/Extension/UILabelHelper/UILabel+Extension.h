@@ -20,4 +20,7 @@
  */
 + (UILabel *)labelWithTitle:(NSString *)title AndColor:(NSString *)color AndFont:(CGFloat)font AndAlignment:(NSTextAlignment)alignment;
 
+//计算label高度
++ (CGFloat)getSpaceLabelHeight:(NSString *)str withWidth:(CGFloat)width;
+
 @end

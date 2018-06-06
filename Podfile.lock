@@ -15,32 +15,42 @@ PODS:
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
   - Bugly (2.4.6)
+  - FSCalendar (2.7.9)
+  - IQKeyboardManager (6.0.2)
   - Masonry (1.0.2)
   - MBProgressHUD (1.0.0)
   - MJRefresh (3.1.12)
-  - SDiPhoneVersion (1.1.2)
+  - SDCycleScrollView (1.65):
+    - SDWebImage (~> 3.7)
+  - SDVersion (4.3.2)
   - SDWebImage (3.8.2):
     - SDWebImage/Core (= 3.8.2)
   - SDWebImage/Core (3.8.2)
 
 DEPENDENCIES:
-  - AFNetworking (~> 3.1.0)
+  - AFNetworking
   - Bugly
-  - Masonry (~> 1.0.2)
-  - MBProgressHUD (~> 1.0.0)
-  - MJRefresh (~> 3.1.9)
-  - SDiPhoneVersion (~> 1.1.2)
-  - SDWebImage (~> 3.7)
+  - FSCalendar
+  - IQKeyboardManager
+  - Masonry
+  - MBProgressHUD
+  - MJRefresh
+  - SDCycleScrollView
+  - SDVersion
+  - SDWebImage
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   Bugly: 7756e72c59387b0d490f46e83ab458ae94ee7fba
+  FSCalendar: a04b09f16f811bc92e82f3cf852a15225233b9d5
+  IQKeyboardManager: c49d59e358aeeffaa0280aa305093c2b194d2607
   Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
   MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
   MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
-  SDiPhoneVersion: c52245ccaab8142701e2e7fb8f0391ba3f255b76
+  SDCycleScrollView: f72904c77698a7f93a41bcbbc2d78b073bf7326c
+  SDVersion: 18f32c835c1543611fcfae3c6accd9a04b90597e
   SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
 
-PODFILE CHECKSUM: 0c27608f9fe7ae69288991dd2ab54b6df83a68d0
+PODFILE CHECKSUM: 93a4a6af3dc13df0bd0b93b5da8642ce03324ba7
 
-COCOAPODS: 1.1.0.beta.2
+COCOAPODS: 1.3.1
